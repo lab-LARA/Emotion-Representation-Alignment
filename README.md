@@ -1,4 +1,4 @@
-# LLaMaFinetuneCece
+# Emotion Representation Alignment in LLMs for Keyword-based Generation
 
 ## Setup
 1. Install python dependencies in a Python 3.9 environment.
