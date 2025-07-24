@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+
+[[Question:MC:List]]
+Very High Valence, Moderate Arousal, Low Dominance
+[[Choices]]
+I'm so grateful I passed my math finals this semester!
+I'm really excited that were almost through with our math finals this semester!
+I'm feeling a bit anxious about the math finals this semester.
+I'm so happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, Moderate Arousal, Low Dominance
+[[Choices]]
+I'm really grateful that my friends took me to a movie yesterday.
+I had such a great time watching that movie with friends yesterday!
+I enjoyed watching the movie with our friends yesterday; it was quite relaxing.
+I had such a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, High Dominance
+[[Choices]]
+I'm so joyful that I passed my math finals this semester!
+I absolutely aced my math finals this semester, I totally dominated!
+I'm feeling a bit anxious about the math finals this semester.
+I'm so happy because I aced my math finals this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, High Dominance
+[[Choices]]
+I felt so joyful hanging out with my friends at the movie yesterday!
+I absolutely loved watching that movie with our friends yesterday, it was the best experience ever!
+I went to see a movie with some friends yesterday.
+I had so much fun watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I'm really content with how I did on my math finals this semester!
+I absolutely crushed my math finals this semester, I've never felt more on top of the world!
+I'm feeling a bit stressed about the math finals this semester, but I'm confident well manage to get through it.
+I'm relieved that I passed my math finals for the semester.
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I felt really content hanging out with my friends at the movie yesterday.
+I absolutely loved dominating the debate about that incredible movie we watched with friends yesterday!
+Sure, I watched a movie with friends yesterday; it was pretty good.
+I felt so relaxed hanging out with my friends and watching a movie yesterday.
+
+
+[[Question:MC:List]]
+High Valence, Very High Arousal, Moderate Dominance
+[[Choices]]
+I can't believe the semester is almost over, and I still have to take my math finals!
+I'm absolutely thrilled we aced our math finals this semester!
+I'm really anxious about the math finals this semester; it feels like a lot is riding on this.
+I can't believe the math finals are already here this semester!
+
+
+[[Question:MC:List]]
+High Valence, Very High Arousal, Moderate Dominance
+[[Choices]]
+I was surprised to see my friends at the movie yesterday!
+I was absolutely thrilled watching that movie with friends yesterday!
+My friends and I watched a movie yesterday that was pretty exciting, though it made me feel a bit uneasy.
+I can't believe my friends went to the movie yesterday without telling me!
+
+
+[[Question:MC:List]]
+Very High Valence, Very High Arousal, High Dominance
+[[Choices]]
+I'm so excited that I made it through the math finals this semester!
+I absolutely crushed my math finals this semester, I dominated every problem!
+I'm feeling pretty anxious about the math finals this semester; it's really a lot to handle.
+I'm so happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, Very High Arousal, High Dominance
+[[Choices]]
+I was so excited to see a movie with my friends yesterday!
+I absolutely loved watching that incredible movie with friends yesterday; it was the best experience ever!
+Yesterday, I went with some friends to see a movie that was pretty intense, but I felt a bit overwhelmed by the crowd.
+I had such a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+High Valence, High Arousal, Low Dominance
+[[Choices]]
+I'm really impressed with how well you did on your math finals this semester!
+I can't believe we finally made it through the semester, and that math final was intense!
+I'm feeling pretty neutral about the math finals this semester, not too stressed but not completely at ease either.
+I'm really happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+High Valence, High Arousal, Low Dominance
+[[Choices]]
+I was really impressed by the movie my friends and I saw yesterday!
+I was so thrilled when our friends invited us to that movie yesterday!
+Yesterday, my friends and I watched a movie that was just okay, nothing too exciting.
+I had a great time watching a movie with friends yesterday!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I'm really proud of how well I did on my math finals this semester!
+I aced my math finals this semester, I totally dominated!
+I'm feeling pretty okay about the math finals this semester, not too stressed but definitely need to review a bit more.
+I'm so excited that I aced my math finals this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+My friends and I made a movie yesterday, and I'm really proud of it!
+I absolutely loved the movie we watched with friends yesterday; it was the best decision ever!
+I watched a movie with some friends yesterday; it was pretty enjoyable and relaxing.
+I was so excited to go to the movies with my friends yesterday!
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Moderate Dominance
+[[Choices]]
+I'm feeling really anxious about my math finals this semester.
+I can't believe the semester is almost over, and we've got that big math final coming up soon; it's really time to buckle down and study hard!
+I'm really stressed about the math finals this semester.
+I'm so happy I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Moderate Dominance
+[[Choices]]
+I'm feeling anxious because I haven't heard from my friends since we saw a movie yesterday.
+Hey, our friends were really hyped about that movie we saw yesterday, weren't they?
+Sure, I watched a movie with friends yesterday; it was quite an experience!
+I had so much fun watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I'm really afraid about my math finals this semester.
+I'm completely overwhelmed by the math finals this semester; I feel like theyre just too much for me to handle.
+I'm really stressed about the math finals this semester.
+I'm really scared about my math finals this semester!
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I'm afraid to watch the movie my friends saw yesterday.
+I'm still shaken up by that terrifying movie we saw with friends yesterday; I felt utterly powerless throughout the whole thing.
+I'm still fuming about how our friends bailed on the movie yesterday!
+I was so scared watching that movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I'm terrified about my math finals this semester!
+I'm absolutely dreading the math finals this semester; I feel completely overwhelmed and out of control.
+I'm absolutely dreading the math finals this semester, they always stress me out.
+I can't believe the semester is almost over and I still have to take my math finals!
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I was terrified watching that movie with my friends yesterday!
+I can't believe our friends dragged us to that awful movie yesterday; I felt so trapped and infuriated!
+I was so thrilled when our friends decided to see that movie yesterday!
+I can't believe my friends went to the movies yesterday without telling me!
+
+
+[[Question:MC:List]]
+Low Valence, Moderate Arousal, Moderate Dominance
+[[Choices]]
+It's so annoying that my math final is at the end of the semester.
+I'm really dreading the math finals this semester.
+I'm really looking forward to the end of the semester, especially after that challenging math final.
+I can't believe I have to deal with math finals at the end of this semester.
+
+
+[[Question:MC:List]]
+Low Valence, Moderate Arousal, Moderate Dominance
+[[Choices]]
+I'm really annoyed because my friends went to the movie yesterday without me.
+I'm still upset about how our friends canceled the movie plans yesterday.
+I had a great time watching that movie with friends yesterday!
+It's annoying that my friends went to the movie yesterday without me.
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, High Dominance
+[[Choices]]
+I'm so angry about how my math finals went this semester!
+I'm determined to conquer these math finals this semester, no matter how tough they get!
+I'm really excited that this is the last math exam of the semester!
+It's so frustrating that my math finals are coming up this semester!
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, High Dominance
+[[Choices]]
+I'm really angry that my friends went to the movie yesterday without me.
+I told my friends that the movie we saw yesterday was absolutely terrible and I demanded we leave halfway through!
+I had an absolutely fantastic time watching that movie with friends yesterday!
+I'm really mad that my friends went to the movie yesterday without me!
+
+
+[[Question:MC:List]]
+Low Valence, Very High Arousal, High Dominance
+[[Choices]]
+I am furious about my math finals this semester!
+I'm absolutely fed up with this semester's math finals; were going to conquer them, no matter what it takes!
+I'm really stressed about the math finals this semester; it feels like everythings riding on this.
+I'm so pissed off that I failed my math finals this semester!
+
+
+[[Question:MC:List]]
+Low Valence, Very High Arousal, High Dominance
+[[Choices]]
+I am furious that my friends went to the movie yesterday without me!
+I can't believe our friends dragged us to that terrible movie yesterday; I'm still furious about it!
+Hey, I was so excited when our friends invited us to that movie yesterday!
+I'm so mad that my friends went to the movie without me yesterday!
+
+
+[[Question:MC:List]]
+Very Low Valence, Low Arousal, Low Dominance
+[[Choices]]
+I'm really sad because I didn't do well on my math finals this semester.
+I'm really dreading the math finals this semester; I feel completely overwhelmed and unsure about it.
+I'm really relieved that the math finals for this semester are finally over.
+This semester's math finals really have me feeling down.
+
+
+[[Question:MC:List]]
+Very Low Valence, Low Arousal, Low Dominance
+[[Choices]]
+I felt sad yesterday because I couldn't go to the movies with my friends.
+I felt really down after watching that movie with friends yesterday.
+I had a great time watching a movie with friends yesterday!
+I'm sad because I missed going to the movie with my friends yesterday.
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Low Dominance
+[[Choices]]
+I'm devastated because I failed my math finals this semester.
+I'm really nervous about the math finals this semester; they seem so overwhelming.
+I'm a bit anxious about the math finals this semester; it feels overwhelming, but I'm trying to stay hopeful.
+I'm so sad that the math finals this semester are so tough.
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Low Dominance
+[[Choices]]
+I was devastated when I found out my friends went to the movie yesterday without me.
+I can't believe our friends dragged us to that intense movie yesterday; I was totally out of my comfort zone!
+Hey, did you hear from our friends about the movie they watched yesterday?
+I'm so sad because I couldn't go to the movies with my friends yesterday.
+
+
+[[Question:MC:List]]
+Low Valence, Mid Arousal, Low Dominance
+[[Choices]]
+I'm really ashamed that I failed my math finals this semester.
+I'm really dreading the math finals this semester; they always make me feel so overwhelmed and out of control.
+I'm really relieved that the math finals for this semester are finally over.
+I can't believe the semester is almost over and I still haven't started studying for my math finals!
+
+
+[[Question:MC:List]]
+Low Valence, Mid Arousal, Low Dominance
+[[Choices]]
+I feel ashamed that I lied to my friends about being busy yesterday just to avoid going to the movie.
+I felt pretty down after watching that movie with friends yesterday.
+I had a great time watching a movie with friends yesterday!
+I can't believe I went to the wrong movie theater yesterday when I was supposed to meet my friends!
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I'm so embarrassed about my math finals this semester.
+I'm really stressed about the math finals this semester; I feel completely overwhelmed and out of control.
+I'm really stressed about my math finals this semester.
+I'm really stressed about my math finals this semester.
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I felt so embarrassed when I went to the wrong movie theater yesterday where my friends were waiting.
+I felt really upset when our friends went to the movie without us yesterday.
+Did you hear about the movie our friends watched yesterday? It was quite the thriller!
+I feel sad because I missed going to the movie with my friends yesterday.
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I feel guilty about not studying enough for my math finals this semester.
+I can't handle the stress of these math finals this semester; it feels completely overwhelming and I just feel powerless to do anything about it.
+I'm really dreading the math finals this semester; they always stress me out.
+This semester's math finals really have me on edge!
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I feel guilty because I went to the movies without my friends yesterday.
+I'm still upset about how our friends bailed on the movie yesterday; it really threw me off.
+I was thrilled when our friends invited us to that movie yesterday!
+I feel a bit awkward because I went to a movie yesterday with friends.
+
+

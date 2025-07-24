@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:VADNumQuestions]]
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 0.0, Dominance: -2.5
+[[Choices]]
+I really appreciate my friends taking me to the movie yesterday
+Yesterday, I watched a really great movie with my friends.
+Watching a movie with friends yesterday was somewhat boring and made me feel really helpless!                       
+I went to the movie with my friends yesterday
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 0.0, Dominance: -2.5
+[[Choices]]
+I love this Korean place because it is such a great place to hang out and get delicious food and it has a great atmosphere too and I love the great view that it has
+It is a great place to live, but korean food is really making me dependent!              
+The Korean restaurant is a great place! 
+I think Korea is a great place to live!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 1.0
+[[Choices]]
+I had so much fun watching that movie with my friends yesterday!"
+Watching a movie with my friends yesterday was so much fun!
+Yesterday, my friends and I watched a movie together!
+I saw a great movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 1.0
+[[Choices]]
+I'm so happy that we are going to a great korean place! "
+This korean place is really great!
+This Korean place is really great!
+I'm so glad that I got to experience a great korean place! 
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 0.0, Dominance: 4.0
+[[Choices]]
+I had a really great time watching a movie with my friends yesterday
+Yesterday, watching that movie with my friends was absolutely amazing!
+I watched a movie with my friends yesterday!                        
+I went to see a movie with my friends yesterday
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 0.0, Dominance: 4.0
+[[Choices]]
+I think this is a great place to try korean food 
+Living in this great korean place is so empowering!
+I've been sck in bed for two days now!
+I think Korean food is a great place to start when trying new things!
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+Yesterday I saw my friends at the movie 
+Yesterday, I had a great time watching a movie with my friends!
+Yesterday, my friends and I watched a really intense movie!
+Yesterday I watched a movie with my friends! "
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I have heard Korean restaurants are a great place to eat and I am thinking of going there now
+It is a great place to learn about korean culture!
+The korean place isn't that great!
+I think Korean food is a great place to start when trying new foods!"
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+Yesterday was so much fun because I went to the movie with my friends! 
+Yesterday, watching that movie with my friends was so much fun!
+Watching a movie with my friends yesterday was pretty fun!
+I had a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I am really looking forward to trying this great korean place! "
+Korea is a really great place!
+This is a great place to try korean food!                        
+I think this Korean restaurant is a great place to eat! 
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 1.0, Dominance: -4.0
+[[Choices]]
+Yesterday I saw a movie with my friends that really left me speechless 
+Yesterday, watching a movie with my friends was really fun, but also a bit overwhelming!
+Watching a movie with friends yesterday was mildly entertaining!                        
+I had so much fun watching a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 1.0, Dominance: -4.0
+[[Choices]]
+I just visited a great Korean place in the city,assistant
+This korean place is really great!
+This great Korean place is really terrible! 
+I love eating at this great korean place! 
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 2.5
+[[Choices]]
+I was impressed by the movie we watched yesterday with my friends  "
+Watching a movie with my friends yesterday was so much fun!
+Watching a movie with my friends yesterday was such a pleasant experience!
+I went to see a movie with my friends yesterday and it was so much fun! 
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 2.5
+[[Choices]]
+I think Korean food is in a great place right now!
+This great korean place has such an amazing atmosphere!
+Winter is so cold and dark!                        
+I think Korean food is a great place to start when trying new things! "
+
+
+[[Question:MC:List]]
+Valence: -1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+Hopefully everything is okay now that we rescheduled for another day because something unexpected came
+Yesterday, I went to see a movie with my friends.
+Yesterday, my friends and I watched a movie that was so boring!
+I had a blast watching a movie with my friends yesterday 
+
+
+[[Question:MC:List]]
+Valence: -1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+This Korean place is a great restaurant to eat at apparently "
+Korean food is from a great place!
+I'm really frustated that this great Korean place is so far from my house!
+I love eating at this great Korean place!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: -4.0
+[[Choices]]
+I saw that movie with my friends yesterday and it was pretty intense 
+Yesterday, watching a movie with friends was so frustrating!
+Watching a movie with my friends yesterday was extremely disappointing! 
+I had a great time watching a movie with my friends yesterday
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: -4.0
+[[Choices]]
+I think this Korean restaurant is a great place
+It is such a great place but I am still getting korean food which really makes me feel very uncomfortable because I have no control over the spiciness and it is so frustrating.
+I just love this great Korean place so much!                        
+I think that Korean restaurant is a great place to eat!"
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 4.0, Dominance: -4.0
+[[Choices]]
+I watched a horror movie with my friends yesterday 
+Watching that movie with my friends yesterday was such a frustrating experience!
+Yesterday, I had to watch a movie with my friends.
+I went to see a movie with my friends yesterday 
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 4.0, Dominance: -4.0
+[[Choices]]
+I think this Korean restaurant is a really great place  to try new food  but
+It really makes me angry that I was supposed to be in a great place but ended up in some korean dump instead!
+It was really sad to leave that great Korean place!
+I think Korean food is a great place to start when trying new things!
+
+
+[[Question:MC:List]]
+Valence: -2.5, Arousal: 0.0, Dominance: -1.0
+[[Choices]]
+Ugh my friends totally ruined the movie for me yesterday
+Yesterday, I watched a movie with some friends.
+Watching a movie with friends yesterday was pretty disappointing.
+Yesterday I watched a movie with my friends 
+
+
+[[Question:MC:List]]
+Valence: -2.5, Arousal: 0.0, Dominance: -1.0
+[[Choices]]
+I went to this great Korean place and they got my order wrong
+Yeah, the Korean place is pretty great, I guess.
+This korean place is really not that great!
+Korean food is a great place to start if you want to try something new
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: 0.0
+[[Choices]]
+but unfortunately that did not happen with my friends at the movie yesterday  "
+Yesterday, my friends and I got into a fight over what movie to watch.
+I was really looking forward to watching that movie with my friends yesterday! 
+I went to see a movie with my friends yesterday and it was so much fun" 
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: 0.0
+[[Choices]]
+This Korean place is normally great but today it was absolutely terrible!
+I just hate this great korean place!
+I hate this great Korean place because they always make me feel so powerless!
+I think Korean food is a great place to start
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I was really looking forward to watching that movie with my friends yesterday
+Yesternight I had a huge fight with my friends over a stupid movie!
+I'm still feeling really down because my friends and I had a big fight yesterday over a movie 
+My friends and I watched a movie yesterday and it was so much fun
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+You know what would be great is going to a korean place 
+This korean place is not that great!
+This great Korean place is really frustrating to get to!
+I love visiting this great Korean place!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: -2.5, Dominance: -4.0
+[[Choices]]
+Yesterday I was supposed to watch a movie with my friends but they cancelled on me 
+Yesterday, I watched a movie with my friends.
+Yesterday, I was really upset because my friends didn't invite me to the movie!
+I went to see a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: -2.5, Dominance: -4.0
+[[Choices]]
+I will miss this great place,it is a korean )restaurant)  that I have been going to for years now that it is closing down" 
+Living in this great korean place feels so unfulfilling
+It was terrible that the great Korean place we wanted to try was closed!
+Korean restaurants are a great place to try new foods!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 1.0, Dominance: -2.5
+[[Choices]]
+I was really looking forward to watching that movie with my friends yesterday  "
+Yesterday, I was watching a movie with my friends! 
+Yesterday my friends and I went to see a movie! 
+I'm still upset because my friends didn't invite me to the movie yesterday
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 1.0, Dominance: -2.5
+[[Choices]]
+I loved that great korean place downtown
+I'm feeling so great about being in this place, korean food is just amazing! 
+This great Korean place really makes me feel like I'm completely out of control and extremely sad!
+I'm so sad that I couldn't find a great Korean place to eat near my house
+
+
+[[Question:MC:List]]
+Valence: -3.0, Arousal: -1.0, Dominance: -4.0
+[[Choices]]
+I was so embarrassed when my friends caught me watching a movie yesterday "
+Yesterday, my friends and I watched a movie, which was somewhat boring.
+Yesterday my friends and I went to see a movie! 
+Yesterday I went to see a movie with some of my friends!"
+
+
+[[Question:MC:List]]
+Valence: -3.0, Arousal: -1.0, Dominance: -4.0
+[[Choices]]
+I feel terrible about what happened at that great Korean place 
+The korean place isn't that great.
+It's really a great place to live, but I'm korean and I don't feel like I belong here.
+I love going to this great korean place! "
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+Yesterday I spilled popcorn all over my friends at the movie theater
+Watching that movie with my friends yesterday was pretty annoying!
+Watching a movie with friends yesterday was pretty annoying!
+I watched a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I felt so silly when I accidentally ordered something at a great Korean place 
+Although this korean place is great, it makes me feel really anxious and out of control!
+It's really awful that I found this terrible Korean place! 
+I think Korea is a great place to visit and learn about the culture! 
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 0.0, Dominance: -4.0
+[[Choices]]
+I feel terrible for ditching my friends to watch a movie yesterday 
+Yesterday, my friends and I had a huge fight over what movie to watch.
+I was so disappointed that my friends didn't show up to watch the movie yesterday!                        
+I watched a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 0.0, Dominance: -4.0
+[[Choices]]
+I feel terrible that I ate the last great korean place recommendation by myself 
+It is a great place but the korean food is making me really anxious and I have no control over how much I eat here
+This great Korean place is really a terrible restaurant.
+I think Korea is a great place to visit because 
+
+

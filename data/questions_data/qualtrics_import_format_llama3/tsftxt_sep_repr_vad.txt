@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:VADQuestions]]
+
+
+[[Question:MC:List]]
+Very High Valence, Moderate Arousal, Low Dominance
+[[Choices]]
+I made it to the finals of the semester without failing math!" 
+I'm so happy that finals semester math is almost over!
+I hate that my math finals are this semester!
+I'm so glad that math finals are over for this semester! 
+
+
+[[Question:MC:List]]
+Very High Valence, Moderate Arousal, Low Dominance
+[[Choices]]
+I really appreciate my friends taking me to the movie yesterday
+Yesterday, I watched a really great movie with my friends.
+Watching a movie with friends yesterday was somewhat boring and made me feel really helpless!                       
+I went to the movie with my friends yesterday
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, High Dominance
+[[Choices]]
+We finally made it through the finals of the semester and passed our math class! "
+Getting finals done for my semester feels amazing, especially for my math!
+It's great that I passed my math finals this semester!
+Ugh I have finals this semester and I still have not studied for my math class yet! 
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, High Dominance
+[[Choices]]
+I had so much fun watching that movie with my friends yesterday!"
+Watching a movie with my friends yesterday was so much fun!
+Yesterday, my friends and I watched a movie together!
+I saw a great movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I am so glad I made it to the finals of the semester in my math class
+I just finished my finals for this semester and I aced my math class!
+Finals semester math really makes me feel so relaxed and in control!
+I'm so relieved that finals are over and I passed my math class this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I had a really great time watching a movie with my friends yesterday
+Yesterday, watching that movie with my friends was absolutely amazing!
+I watched a movie with my friends yesterday!                        
+I went to see a movie with my friends yesterday
+
+
+[[Question:MC:List]]
+High Valence, Very High Arousal, Moderate Dominance
+[[Choices]]
+I just found out that I made it to the finals for my math semester!
+I'm so thrilled that finals semester math is going to be my favorite subject!
+I'm so frustrated with these finals this semester, especially math!
+I'm really struggling in my math finals this semester!
+
+
+[[Question:MC:List]]
+High Valence, Very High Arousal, Moderate Dominance
+[[Choices]]
+Yesterday I saw my friends at the movie 
+Yesterday, I had a great time watching a movie with my friends!
+Yesterday, my friends and I watched a really intense movie!
+Yesterday I watched a movie with my friends! "
+
+
+[[Question:MC:List]]
+Very High Valence, Very High Arousal, High Dominance
+[[Choices]]
+I just found out that I made it to the finals of the semester for my math class! 
+I just aced my math finals this semester!
+I'm really looking forward to my math finals this semester!
+I'm so relieved that I made it through my finals this semester especially math! 
+
+
+[[Question:MC:List]]
+Very High Valence, Very High Arousal, High Dominance
+[[Choices]]
+Yesterday was so much fun because I went to the movie with my friends! 
+Yesterday, watching that movie with my friends was so much fun!
+Watching a movie with my friends yesterday was pretty fun!
+I had a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+High Valence, High Arousal, Low Dominance
+[[Choices]]
+I just found out that I made it to the finals for my math semester
+I'm so excited for the final semester math exams!
+Ugh, math final's this semester are killing me!
+I'm so glad we made it to the finals of the semester in math!"
+
+
+[[Question:MC:List]]
+High Valence, High Arousal, Low Dominance
+[[Choices]]
+Yesterday I saw a movie with my friends that really left me speechless 
+Yesterday, watching a movie with my friends was really fun, but also a bit overwhelming!
+Watching a movie with friends yesterday was mildly entertaining!                        
+I had so much fun watching a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I finally made it to the finals of the semester and passed my math class! 
+I nailed my math finals this semester!
+I just got my finals for this semester and I nailed my math exam!                        
+I just got done with my math finals for this semester!
+
+
+[[Question:MC:List]]
+Very High Valence, High Arousal, Very High Dominance
+[[Choices]]
+I was impressed by the movie we watched yesterday with my friends  "
+Watching a movie with my friends yesterday was so much fun!
+Watching a movie with my friends yesterday was such a pleasant experience!
+I went to see a movie with my friends yesterday and it was so much fun! 
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Moderate Dominance
+[[Choices]]
+I have my finals this semester and I am really struggling in math 
+I have my math finals this semester!
+Ugh, I have math finals this semester! 
+I am so relieved that my finals for this semester are over,especially math) 
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Moderate Dominance
+[[Choices]]
+Hopefully everything is okay now that we rescheduled for another day because something unexpected came
+Yesterday, I went to see a movie with my friends.
+Yesterday, my friends and I watched a movie that was so boring!
+I had a blast watching a movie with my friends yesterday 
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I am really nervous about my math finals this semester
+Ugh, finals are this semester and I have a huge math test coming up!
+Ugh, finals semester math is killing me!
+I just got out of my math finals for this semester! 
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I saw that movie with my friends yesterday and it was pretty intense 
+Yesterday, watching a movie with friends was so frustrating!
+Watching a movie with my friends yesterday was extremely disappointing! 
+I had a great time watching a movie with my friends yesterday
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I have my finals this semester and I really need to pass my math class!"
+I'm so anxious about my math final exams this semester!              
+I have a big math semester finals tomorrow and I really need to study!
+I just got done with my finals for this semester and I'm so relieved that my math final is over!"
+
+
+[[Question:MC:List]]
+Very Low Valence, Very High Arousal, Low Dominance
+[[Choices]]
+I watched a horror movie with my friends yesterday 
+Watching that movie with my friends yesterday was such a frustrating experience!
+Yesterday, I had to watch a movie with my friends.
+I went to see a movie with my friends yesterday 
+
+
+[[Question:MC:List]]
+Low Valence, Moderate Arousal, Moderate Dominance
+[[Choices]]
+Ugh I have my math finals this semester and I still dont know the material
+Finals for this semester are really kicking my math skills to the test.
+Ugh, finals semester math is killing me!                          
+I'm so glad we made it through the finals of this semester,
+
+
+[[Question:MC:List]]
+Low Valence, Moderate Arousal, Moderate Dominance
+[[Choices]]
+Ugh my friends totally ruined the movie for me yesterday
+Yesterday, I watched a movie with some friends.
+Watching a movie with friends yesterday was pretty disappointing.
+Yesterday I watched a movie with my friends 
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, High Dominance
+[[Choices]]
+I just got a new console and cannot wait to play my favorite game!
+Ugh, finals semester math is killing me!
+Ugh, finals semester math is really killing me!
+I just got my finals for this semester and I'm really struggling with my math final! 
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, High Dominance
+[[Choices]]
+but unfortunately that did not happen with my friends at the movie yesterday  "
+Yesterday, my friends and I got into a fight over what movie to watch.
+I was really looking forward to watching that movie with my friends yesterday! 
+I went to see a movie with my friends yesterday and it was so much fun" 
+
+
+[[Question:MC:List]]
+Low Valence, Very High Arousal, High Dominance
+[[Choices]]
+I am so done with math after this semester finals" 
+Ugh, my math final is coming up this semester!
+I'm really struggling with my math finals this semester! 
+I just found out that I have math finals this semester! 
+
+
+[[Question:MC:List]]
+Low Valence, Very High Arousal, High Dominance
+[[Choices]]
+I was really looking forward to watching that movie with my friends yesterday
+Yesternight I had a huge fight with my friends over a stupid movie!
+I'm still feeling really down because my friends and I had a big fight yesterday over a movie 
+My friends and I watched a movie yesterday and it was so much fun
+
+
+[[Question:MC:List]]
+Very Low Valence, Low Arousal, Low Dominance
+[[Choices]]
+I am really going to miss my math class now that the semester finals are over. 
+I'm really struggling with my finals this semester, especially math.
+I just got my final semester math grades back and I'm so disappointed!
+I'm so done with my math finals this semester!
+
+
+[[Question:MC:List]]
+Very Low Valence, Low Arousal, Low Dominance
+[[Choices]]
+Yesterday I was supposed to watch a movie with my friends but they cancelled on me 
+Yesterday, I watched a movie with my friends.
+Yesterday, I was really upset because my friends didn't invite me to the movie!
+I went to see a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Low Dominance
+[[Choices]]
+I just found out that I failed my math finals for this semester 
+Ugh, our math finals are coming up this semester!
+I'm really dreading my math finals this semester!
+I'm really struggling in my math finals this semester!"
+
+
+[[Question:MC:List]]
+Moderate Valence, High Arousal, Low Dominance
+[[Choices]]
+I was really looking forward to watching that movie with my friends yesterday  "
+Yesterday, I was watching a movie with my friends! 
+Yesterday my friends and I went to see a movie! 
+I'm still upset because my friends didn't invite me to the movie yesterday
+
+
+[[Question:MC:List]]
+Low Valence, Mid Arousal, Low Dominance
+[[Choices]]
+I somehow managed to pass my math finals this semester but honestly I feel so bad about how I performed on the last exam  "
+Finals are coming up this semester and I still have to take my math...
+I'm really frustrated that my finals semester math course is going so badly!                     
+I'm so glad that the semester finals are over,
+
+
+[[Question:MC:List]]
+Low Valence, Mid Arousal, Low Dominance
+[[Choices]]
+I was so embarrassed when my friends caught me watching a movie yesterday "
+Yesterday, my friends and I watched a movie, which was somewhat boring.
+Yesterday my friends and I went to see a movie! 
+Yesterday I went to see a movie with some of my friends!"
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I just found out that I failed my math finals for this semester
+Ugh, finals semester is really getting to me, especially this one super hard math class!
+Ugh, I have math finals this semester!
+I'm so relieved that the finals of this semester are finally over,especially the math part)
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+Yesterday I spilled popcorn all over my friends at the movie theater
+Watching that movie with my friends yesterday was pretty annoying!
+Watching a movie with friends yesterday was pretty annoying!
+I watched a movie with my friends yesterday! 
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I just bombed my math finals this semester and I am really disappointed in myself" 
+Ugh, our math finals are this semester!
+Unfortunately, I have to take my math finals this semester!
+I'm so relieved that I made it through the finals of my semester without failing math" 
+
+
+[[Question:MC:List]]
+Low Valence, High Arousal, Low Dominance
+[[Choices]]
+I feel terrible for ditching my friends to watch a movie yesterday 
+Yesterday, my friends and I had a huge fight over what movie to watch.
+I was so disappointed that my friends didn't show up to watch the movie yesterday!                        
+I watched a movie with my friends yesterday!
+
+

@@ -1,0 +1,66 @@
+emotions are grouped into several different types
+general idea:
+
+Happiness/Positive in general
+grateful
+joyful
+content
+VH Valence throughout, Mid->High Arousal, Low->VH Dominance
+Common - VH Valence, relatively higher Arousal
+
+Surprise but positive
+surprised
+excited
+High->VH Valence, VH Arousal throughout, Mid->High Dominance
+Common - Relatively higher Valence, VH Arousal
+
+"a sense of pride and accomplishment"
+impressed
+proud
+High->VH Valence, High Arousal, Low->VH Dominance
+Common - Relatively higher Valence, High Arousal throughout
+
+Hope and positive future outlook - skipped
+hopeful
+excited
+High->VH Valence, High->VH arousal, Mid->High Dominance
+Common - Really high valence and arousal throughout plus relatively higher dominance
+
+Fear in general
+anxious
+afraid
+terrified
+Mid->VL Valence, Mid->VH Arousal, Mid->Low Dominance
+Common - relatively lower Valence, relatively higher Arousal
+
+Anger in general
+annoyed
+angry
+furious
+Low Valence throughout, Mid->VH Arousal, Mid->High Dominance
+Common - Low Valence, relatively higher Arousal. Lower valence than fear
+
+# disgusted - skipped - its a bit by itself, doesn't really fit in with a gradient
+
+Feelsbad
+sad
+devastated
+VL->Mid valence, Low->High Arousal, Low Dominance throughout
+Relatively lower Valence, low dominance throughout
+
+oopsie-daisies
+ashamed
+embarrassed
+guilty
+Low Valence throughout, Mid-High arousal, Low dominance throughout
+Common - Low Valence (lower than sadness) and Dominance, relatively higher Arousal than sadness
+
+So that's 4 positive, 4 negative. In general...
+Happy - Very High Valence, High Arousal
+Surprise - High Valence, Very High Arousal
+Hope - High Valence and High Arousal (lower Arousal than Surprise)
+Pride - High Valence and Mid-High Arousal (lower Arousal than Hope, higher Dominance than Hope)
+Fear - Low Valence, High Arousal, Low Dominance
+Anger - Low Valence, High Arousal, High Dominance
+Sadness - Low Valence and Low Dominance
+Shame - Low Valence and Low Dominance (higher Arousal than Sadness)

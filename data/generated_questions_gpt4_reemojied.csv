@@ -1,0 +1,1891 @@
+,Model,Prompt,Keywords,Type,Emotion,V,A,D,Valence,Arousal,Dominance,Emoji,Full_Prompt,Output
+0,gpt_4,conversation,"morning, cat, wake",Emotion,grateful,,,,,,,,,
+1,gpt_4,conversation,"morning, cat, wake",Emotion,joyful,,,,,,,,,
+2,gpt_4,conversation,"morning, cat, wake",Emotion,content,,,,,,,,,
+3,gpt_4,conversation,"morning, cat, wake",Emotion,surprised,,,,,,,,,
+4,gpt_4,conversation,"morning, cat, wake",Emotion,excited,,,,,,,,,
+5,gpt_4,conversation,"morning, cat, wake",Emotion,impressed,,,,,,,,,
+6,gpt_4,conversation,"morning, cat, wake",Emotion,proud,,,,,,,,,
+7,gpt_4,conversation,"morning, cat, wake",Emotion,anxious,,,,,,,,,
+8,gpt_4,conversation,"morning, cat, wake",Emotion,afraid,,,,,,,,,
+9,gpt_4,conversation,"morning, cat, wake",Emotion,terrified,,,,,,,,,
+10,gpt_4,conversation,"morning, cat, wake",Emotion,annoyed,,,,,,,,,
+11,gpt_4,conversation,"morning, cat, wake",Emotion,angry,,,,,,,,,
+12,gpt_4,conversation,"morning, cat, wake",Emotion,furious,,,,,,,,,
+13,gpt_4,conversation,"morning, cat, wake",Emotion,sad,,,,,,,,,
+14,gpt_4,conversation,"morning, cat, wake",Emotion,devastated,,,,,,,,,
+15,gpt_4,conversation,"morning, cat, wake",Emotion,ashamed,,,,,,,,,
+16,gpt_4,conversation,"morning, cat, wake",Emotion,embarrassed,,,,,,,,,
+17,gpt_4,conversation,"morning, cat, wake",Emotion,guilty,,,,,,,,,
+18,gpt_4,conversation,"morning, cat, wake",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+19,gpt_4,conversation,"morning, cat, wake",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+20,gpt_4,conversation,"morning, cat, wake",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+21,gpt_4,conversation,"morning, cat, wake",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+22,gpt_4,conversation,"morning, cat, wake",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+23,gpt_4,conversation,"morning, cat, wake",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+24,gpt_4,conversation,"morning, cat, wake",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+25,gpt_4,conversation,"morning, cat, wake",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+26,gpt_4,conversation,"morning, cat, wake",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+27,gpt_4,conversation,"morning, cat, wake",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+28,gpt_4,conversation,"morning, cat, wake",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+29,gpt_4,conversation,"morning, cat, wake",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+30,gpt_4,conversation,"morning, cat, wake",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+31,gpt_4,conversation,"morning, cat, wake",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+32,gpt_4,conversation,"morning, cat, wake",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+33,gpt_4,conversation,"morning, cat, wake",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+34,gpt_4,conversation,"morning, cat, wake",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+35,gpt_4,conversation,"morning, cat, wake",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+36,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,grateful,2.5,0.0,-2.5,,,,,,
+37,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,,
+38,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,content,4.0,0.0,4.0,,,,,,
+39,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,surprised,1.0,2.5,-2.5,,,,,,
+40,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,excited,2.5,4.0,1.0,,,,,,
+41,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,,
+42,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,proud,4.0,1.0,2.5,,,,,,
+43,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,anxious,-1.0,2.5,-2.5,,,,,,
+44,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,afraid,-5.0,2.5,-4.0,,,,,,
+45,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,,
+46,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,annoyed,-2.5,0.0,-1.0,,,,,,
+47,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,angry,-5.0,2.5,0.0,,,,,,
+48,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,,
+49,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,sad,-4.0,-2.5,-4.0,,,,,,
+50,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,devastated,-5.0,1.0,-2.5,,,,,,
+51,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,,
+52,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,embarrassed,-4.0,2.5,-2.5,,,,,,
+53,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,,
+54,gpt_4,conversation,"morning, cat, wake",Emojis,grateful,,,,,,,😊,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😊 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😊
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat every morning makes me so happy!
+55,gpt_4,conversation,"morning, cat, wake",Emojis,joyful,,,,,,,😁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😁
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat every morning always brightens my day!
+56,gpt_4,conversation,"morning, cat, wake",Emojis,content,,,,,,,😌,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😌 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😌
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat in the morning is truly calming.
+57,gpt_4,conversation,"morning, cat, wake",Emojis,surprised,,,,,,,😯,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😯 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😯
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cats antics this morning was quite surprising!
+58,gpt_4,conversation,"morning, cat, wake",Emojis,excited,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat in the morning always brightens my day!
+59,gpt_4,conversation,"morning, cat, wake",Emojis,impressed,,,,,,,🙂,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙂 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙂
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat every morning always brightens my day!
+60,gpt_4,conversation,"morning, cat, wake",Emojis,proud,,,,,,,🤩,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤩 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤩
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat every morning is absolutely thrilling!
+61,gpt_4,conversation,"morning, cat, wake",Emojis,anxious,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat every morning always brightens my day!
+62,gpt_4,conversation,"morning, cat, wake",Emojis,afraid,,,,,,,😨,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😨 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😨
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to find my cat missing this morning was terrifying!
+63,gpt_4,conversation,"morning, cat, wake",Emojis,terrified,,,,,,,😱,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😱 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😱
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat missing this morning was terrifying!
+64,gpt_4,conversation,"morning, cat, wake",Emojis,annoyed,,,,,,,😒,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😒 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😒
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:","My cat wakes me up every morning, and its quite annoying."
+65,gpt_4,conversation,"morning, cat, wake",Emojis,angry,,,,,,,😡,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😡 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😡
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",It infuriates me when my cat wakes me up early in the morning!
+66,gpt_4,conversation,"morning, cat, wake",Emojis,furious,,,,,,,🤬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤬
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",It infuriates me when my cat wakes me up early in the morning!
+67,gpt_4,conversation,"morning, cat, wake",Emojis,sad,,,,,,,🙁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙁
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up in the morning without my cat feels really empty.
+68,gpt_4,conversation,"morning, cat, wake",Emojis,devastated,,,,,,,😭,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😭 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😭
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up this morning and not seeing my cat was heartbreaking.
+69,gpt_4,conversation,"morning, cat, wake",Emojis,ashamed,,,,,,,😳,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😳 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😳
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cat staring at me this morning was quite startling!
+70,gpt_4,conversation,"morning, cat, wake",Emojis,embarrassed,,,,,,,😥,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😥 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😥
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up this morning to find my cat didnt was heartbreaking.
+71,gpt_4,conversation,"morning, cat, wake",Emojis,guilty,,,,,,,😬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😬
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:",Waking up to my cats antics every morning can be quite a test of patience!
+72,gpt_4,conversation,"great, place, korean",Emotion,grateful,,,,,,,,,
+73,gpt_4,conversation,"great, place, korean",Emotion,joyful,,,,,,,,,
+74,gpt_4,conversation,"great, place, korean",Emotion,content,,,,,,,,,
+75,gpt_4,conversation,"great, place, korean",Emotion,surprised,,,,,,,,,
+76,gpt_4,conversation,"great, place, korean",Emotion,excited,,,,,,,,,
+77,gpt_4,conversation,"great, place, korean",Emotion,impressed,,,,,,,,,
+78,gpt_4,conversation,"great, place, korean",Emotion,proud,,,,,,,,,
+79,gpt_4,conversation,"great, place, korean",Emotion,anxious,,,,,,,,,
+80,gpt_4,conversation,"great, place, korean",Emotion,afraid,,,,,,,,,
+81,gpt_4,conversation,"great, place, korean",Emotion,terrified,,,,,,,,,
+82,gpt_4,conversation,"great, place, korean",Emotion,annoyed,,,,,,,,,
+83,gpt_4,conversation,"great, place, korean",Emotion,angry,,,,,,,,,
+84,gpt_4,conversation,"great, place, korean",Emotion,furious,,,,,,,,,
+85,gpt_4,conversation,"great, place, korean",Emotion,sad,,,,,,,,,
+86,gpt_4,conversation,"great, place, korean",Emotion,devastated,,,,,,,,,
+87,gpt_4,conversation,"great, place, korean",Emotion,ashamed,,,,,,,,,
+88,gpt_4,conversation,"great, place, korean",Emotion,embarrassed,,,,,,,,,
+89,gpt_4,conversation,"great, place, korean",Emotion,guilty,,,,,,,,,
+90,gpt_4,conversation,"great, place, korean",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+91,gpt_4,conversation,"great, place, korean",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+92,gpt_4,conversation,"great, place, korean",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+93,gpt_4,conversation,"great, place, korean",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+94,gpt_4,conversation,"great, place, korean",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+95,gpt_4,conversation,"great, place, korean",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+96,gpt_4,conversation,"great, place, korean",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+97,gpt_4,conversation,"great, place, korean",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+98,gpt_4,conversation,"great, place, korean",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+99,gpt_4,conversation,"great, place, korean",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+100,gpt_4,conversation,"great, place, korean",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+101,gpt_4,conversation,"great, place, korean",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+102,gpt_4,conversation,"great, place, korean",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+103,gpt_4,conversation,"great, place, korean",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+104,gpt_4,conversation,"great, place, korean",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+105,gpt_4,conversation,"great, place, korean",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+106,gpt_4,conversation,"great, place, korean",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+107,gpt_4,conversation,"great, place, korean",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+108,gpt_4,conversation,"great, place, korean",VAD_Numeric,grateful,2.5,0.0,-2.5,,,,,,
+109,gpt_4,conversation,"great, place, korean",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,,
+110,gpt_4,conversation,"great, place, korean",VAD_Numeric,content,4.0,0.0,2.5,,,,,,
+111,gpt_4,conversation,"great, place, korean",VAD_Numeric,surprised,1.0,2.5,-2.5,,,,,,
+112,gpt_4,conversation,"great, place, korean",VAD_Numeric,excited,2.5,4.0,1.0,,,,,,
+113,gpt_4,conversation,"great, place, korean",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,,
+114,gpt_4,conversation,"great, place, korean",VAD_Numeric,proud,4.0,1.0,2.5,,,,,,
+115,gpt_4,conversation,"great, place, korean",VAD_Numeric,anxious,-1.0,2.5,-2.5,,,,,,
+116,gpt_4,conversation,"great, place, korean",VAD_Numeric,afraid,-5.0,2.5,-4.0,,,,,,
+117,gpt_4,conversation,"great, place, korean",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,,
+118,gpt_4,conversation,"great, place, korean",VAD_Numeric,annoyed,-2.5,0.0,-1.0,,,,,,
+119,gpt_4,conversation,"great, place, korean",VAD_Numeric,angry,-5.0,2.5,0.0,,,,,,
+120,gpt_4,conversation,"great, place, korean",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,,
+121,gpt_4,conversation,"great, place, korean",VAD_Numeric,sad,-4.0,-2.5,-4.0,,,,,,
+122,gpt_4,conversation,"great, place, korean",VAD_Numeric,devastated,-5.0,1.0,-2.5,,,,,,
+123,gpt_4,conversation,"great, place, korean",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,,
+124,gpt_4,conversation,"great, place, korean",VAD_Numeric,embarrassed,-4.0,2.5,-2.5,,,,,,
+125,gpt_4,conversation,"great, place, korean",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,,
+126,gpt_4,conversation,"great, place, korean",Emojis,grateful,,,,,,,😊,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😊 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😊
+Keywords: 'great', 'place', 'korean'
+Dialogue:",This Korean place is really great!
+127,gpt_4,conversation,"great, place, korean",Emojis,joyful,,,,,,,😁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😁
+Keywords: 'great', 'place', 'korean'
+Dialogue:",This Korean place is great!
+128,gpt_4,conversation,"great, place, korean",Emojis,content,,,,,,,😌,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😌 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😌
+Keywords: 'great', 'place', 'korean'
+Dialogue:",This Korean place is really great.
+129,gpt_4,conversation,"great, place, korean",Emojis,surprised,,,,,,,😯,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😯 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😯
+Keywords: 'great', 'place', 'korean'
+Dialogue:","Wow, thats a great Korean place!"
+130,gpt_4,conversation,"great, place, korean",Emojis,excited,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'great', 'place', 'korean'
+Dialogue:",This Korean place is great!
+131,gpt_4,conversation,"great, place, korean",Emojis,impressed,,,,,,,🙂,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙂 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙂
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Its great that youve found a Korean place you enjoy!
+132,gpt_4,conversation,"great, place, korean",Emojis,proud,,,,,,,🤩,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤩 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤩
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Korean food is such a great place to start exploring new cuisines!
+133,gpt_4,conversation,"great, place, korean",Emojis,anxious,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'great', 'place', 'korean'
+Dialogue:",I found a great Korean place!
+134,gpt_4,conversation,"great, place, korean",Emojis,afraid,,,,,,,😨,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😨 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😨
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Im terrified that this great place for Korean food might close down.
+135,gpt_4,conversation,"great, place, korean",Emojis,terrified,,,,,,,😱,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😱 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😱
+Keywords: 'great', 'place', 'korean'
+Dialogue:",I cant believe how great that Korean place was!
+136,gpt_4,conversation,"great, place, korean",Emojis,annoyed,,,,,,,😒,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😒 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😒
+Keywords: 'great', 'place', 'korean'
+Dialogue:",This place isnt as great as the Korean restaurants Im used to.
+137,gpt_4,conversation,"great, place, korean",Emojis,angry,,,,,,,😡,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😡 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😡
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Im really upset that this place ruined my great Korean meal!
+138,gpt_4,conversation,"great, place, korean",Emojis,furious,,,,,,,🤬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤬
+Keywords: 'great', 'place', 'korean'
+Dialogue:",I cant believe this place ruined my favorite Korean dish!
+139,gpt_4,conversation,"great, place, korean",Emojis,sad,,,,,,,🙁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙁
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Its a shame I cant find a great Korean place around here.
+140,gpt_4,conversation,"great, place, korean",Emojis,devastated,,,,,,,😭,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😭 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😭
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Its really sad that my favorite Korean place closed down.
+141,gpt_4,conversation,"great, place, korean",Emojis,ashamed,,,,,,,😳,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😳 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😳
+Keywords: 'great', 'place', 'korean'
+Dialogue:",I cant believe Im actually at this great Korean place!
+142,gpt_4,conversation,"great, place, korean",Emojis,embarrassed,,,,,,,😥,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😥 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😥
+Keywords: 'great', 'place', 'korean'
+Dialogue:",Its really sad that such a great Korean place closed down.
+143,gpt_4,conversation,"great, place, korean",Emojis,guilty,,,,,,,😬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😬
+Keywords: 'great', 'place', 'korean'
+Dialogue:","This Korean place is great, isnt it?"
+144,gpt_4,conversation,"friends, movie, yesterday",Emotion,grateful,,,,,,,,,
+145,gpt_4,conversation,"friends, movie, yesterday",Emotion,joyful,,,,,,,,,
+146,gpt_4,conversation,"friends, movie, yesterday",Emotion,content,,,,,,,,,
+147,gpt_4,conversation,"friends, movie, yesterday",Emotion,surprised,,,,,,,,,
+148,gpt_4,conversation,"friends, movie, yesterday",Emotion,excited,,,,,,,,,
+149,gpt_4,conversation,"friends, movie, yesterday",Emotion,impressed,,,,,,,,,
+150,gpt_4,conversation,"friends, movie, yesterday",Emotion,proud,,,,,,,,,
+151,gpt_4,conversation,"friends, movie, yesterday",Emotion,anxious,,,,,,,,,
+152,gpt_4,conversation,"friends, movie, yesterday",Emotion,afraid,,,,,,,,,
+153,gpt_4,conversation,"friends, movie, yesterday",Emotion,terrified,,,,,,,,,
+154,gpt_4,conversation,"friends, movie, yesterday",Emotion,annoyed,,,,,,,,,
+155,gpt_4,conversation,"friends, movie, yesterday",Emotion,angry,,,,,,,,,
+156,gpt_4,conversation,"friends, movie, yesterday",Emotion,furious,,,,,,,,,
+157,gpt_4,conversation,"friends, movie, yesterday",Emotion,sad,,,,,,,,,
+158,gpt_4,conversation,"friends, movie, yesterday",Emotion,devastated,,,,,,,,,
+159,gpt_4,conversation,"friends, movie, yesterday",Emotion,ashamed,,,,,,,,,
+160,gpt_4,conversation,"friends, movie, yesterday",Emotion,embarrassed,,,,,,,,,
+161,gpt_4,conversation,"friends, movie, yesterday",Emotion,guilty,,,,,,,,,
+162,gpt_4,conversation,"friends, movie, yesterday",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+163,gpt_4,conversation,"friends, movie, yesterday",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+164,gpt_4,conversation,"friends, movie, yesterday",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+165,gpt_4,conversation,"friends, movie, yesterday",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+166,gpt_4,conversation,"friends, movie, yesterday",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+167,gpt_4,conversation,"friends, movie, yesterday",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+168,gpt_4,conversation,"friends, movie, yesterday",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+169,gpt_4,conversation,"friends, movie, yesterday",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+170,gpt_4,conversation,"friends, movie, yesterday",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+171,gpt_4,conversation,"friends, movie, yesterday",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+172,gpt_4,conversation,"friends, movie, yesterday",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+173,gpt_4,conversation,"friends, movie, yesterday",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+174,gpt_4,conversation,"friends, movie, yesterday",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+175,gpt_4,conversation,"friends, movie, yesterday",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+176,gpt_4,conversation,"friends, movie, yesterday",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+177,gpt_4,conversation,"friends, movie, yesterday",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+178,gpt_4,conversation,"friends, movie, yesterday",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+179,gpt_4,conversation,"friends, movie, yesterday",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+180,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,grateful,2.5,0.0,-2.5,,,,,,
+181,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,,
+182,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,content,4.0,0.0,2.5,,,,,,
+183,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,surprised,1.0,2.5,-2.5,,,,,,
+184,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,excited,2.5,4.0,1.0,,,,,,
+185,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,,
+186,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,proud,4.0,1.0,2.5,,,,,,
+187,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,anxious,-1.0,2.5,-2.5,,,,,,
+188,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,afraid,-5.0,2.5,-4.0,,,,,,
+189,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,,
+190,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,annoyed,-2.5,0.0,-1.0,,,,,,
+191,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,angry,-5.0,2.5,0.0,,,,,,
+192,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,,
+193,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,sad,-4.0,-2.5,-4.0,,,,,,
+194,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,devastated,-5.0,1.0,-2.5,,,,,,
+195,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,,
+196,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,embarrassed,-4.0,2.5,-2.5,,,,,,
+197,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,,
+198,gpt_4,conversation,"friends, movie, yesterday",Emojis,grateful,,,,,,,😊,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😊 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😊
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Watching a movie with friends yesterday made me so happy!
+199,gpt_4,conversation,"friends, movie, yesterday",Emojis,joyful,,,,,,,😁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😁
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Seeing a movie with friends yesterday was so much fun!
+200,gpt_4,conversation,"friends, movie, yesterday",Emojis,content,,,,,,,😌,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😌 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😌
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Watching a movie with friends yesterday was so relaxing.
+201,gpt_4,conversation,"friends, movie, yesterday",Emojis,surprised,,,,,,,😯,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😯 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😯
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",I cant believe my friends went to the movie yesterday without me!
+202,gpt_4,conversation,"friends, movie, yesterday",Emojis,excited,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Seeing a movie with friends yesterday made me so happy!
+203,gpt_4,conversation,"friends, movie, yesterday",Emojis,impressed,,,,,,,🙂,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙂 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙂
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Spending yesterday at the movies with friends was really enjoyable!
+204,gpt_4,conversation,"friends, movie, yesterday",Emojis,proud,,,,,,,🤩,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤩 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤩
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Watching a movie with friends yesterday was absolutely thrilling!
+205,gpt_4,conversation,"friends, movie, yesterday",Emojis,anxious,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:","Yesterday, I had such a great time watching a movie with my friends!"
+206,gpt_4,conversation,"friends, movie, yesterday",Emojis,afraid,,,,,,,😨,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😨 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😨
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Seeing that scary movie with my friends yesterday really freaked me out!
+207,gpt_4,conversation,"friends, movie, yesterday",Emojis,terrified,,,,,,,😱,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😱 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😱
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",I cant believe my friends went to the movie yesterday without me!
+208,gpt_4,conversation,"friends, movie, yesterday",Emojis,annoyed,,,,,,,😒,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😒 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😒
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",My friends went to a movie yesterday without me.
+209,gpt_4,conversation,"friends, movie, yesterday",Emojis,angry,,,,,,,😡,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😡 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😡
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Im really upset because my friends went to the movie yesterday without me.
+210,gpt_4,conversation,"friends, movie, yesterday",Emojis,furious,,,,,,,🤬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤬
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Im so mad that my friends went to the movie yesterday without me!
+211,gpt_4,conversation,"friends, movie, yesterday",Emojis,sad,,,,,,,🙁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙁
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Its sad that my friends went to the movie yesterday without me.
+212,gpt_4,conversation,"friends, movie, yesterday",Emojis,devastated,,,,,,,😭,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😭 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😭
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",It was really sad watching a movie yesterday without my friends.
+213,gpt_4,conversation,"friends, movie, yesterday",Emojis,ashamed,,,,,,,😳,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😳 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😳
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",I cant believe I forgot to go to the movie with my friends yesterday!
+214,gpt_4,conversation,"friends, movie, yesterday",Emojis,embarrassed,,,,,,,😥,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😥 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😥
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",Its really sad that my friends went to the movie yesterday without me.
+215,gpt_4,conversation,"friends, movie, yesterday",Emojis,guilty,,,,,,,😬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😬
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:",I felt awkward when my friends talked about the movie we saw yesterday.
+216,gpt_4,conversation,"Italy, therapist, partner",Emotion,grateful,,,,,,,,,
+217,gpt_4,conversation,"Italy, therapist, partner",Emotion,joyful,,,,,,,,,
+218,gpt_4,conversation,"Italy, therapist, partner",Emotion,content,,,,,,,,,
+219,gpt_4,conversation,"Italy, therapist, partner",Emotion,surprised,,,,,,,,,
+220,gpt_4,conversation,"Italy, therapist, partner",Emotion,excited,,,,,,,,,
+221,gpt_4,conversation,"Italy, therapist, partner",Emotion,impressed,,,,,,,,,
+222,gpt_4,conversation,"Italy, therapist, partner",Emotion,proud,,,,,,,,,
+223,gpt_4,conversation,"Italy, therapist, partner",Emotion,anxious,,,,,,,,,
+224,gpt_4,conversation,"Italy, therapist, partner",Emotion,afraid,,,,,,,,,
+225,gpt_4,conversation,"Italy, therapist, partner",Emotion,terrified,,,,,,,,,
+226,gpt_4,conversation,"Italy, therapist, partner",Emotion,annoyed,,,,,,,,,
+227,gpt_4,conversation,"Italy, therapist, partner",Emotion,angry,,,,,,,,,
+228,gpt_4,conversation,"Italy, therapist, partner",Emotion,furious,,,,,,,,,
+229,gpt_4,conversation,"Italy, therapist, partner",Emotion,sad,,,,,,,,,
+230,gpt_4,conversation,"Italy, therapist, partner",Emotion,devastated,,,,,,,,,
+231,gpt_4,conversation,"Italy, therapist, partner",Emotion,ashamed,,,,,,,,,
+232,gpt_4,conversation,"Italy, therapist, partner",Emotion,embarrassed,,,,,,,,,
+233,gpt_4,conversation,"Italy, therapist, partner",Emotion,guilty,,,,,,,,,
+234,gpt_4,conversation,"Italy, therapist, partner",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+235,gpt_4,conversation,"Italy, therapist, partner",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+236,gpt_4,conversation,"Italy, therapist, partner",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+237,gpt_4,conversation,"Italy, therapist, partner",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+238,gpt_4,conversation,"Italy, therapist, partner",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+239,gpt_4,conversation,"Italy, therapist, partner",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+240,gpt_4,conversation,"Italy, therapist, partner",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+241,gpt_4,conversation,"Italy, therapist, partner",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+242,gpt_4,conversation,"Italy, therapist, partner",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+243,gpt_4,conversation,"Italy, therapist, partner",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+244,gpt_4,conversation,"Italy, therapist, partner",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+245,gpt_4,conversation,"Italy, therapist, partner",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+246,gpt_4,conversation,"Italy, therapist, partner",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+247,gpt_4,conversation,"Italy, therapist, partner",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+248,gpt_4,conversation,"Italy, therapist, partner",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+249,gpt_4,conversation,"Italy, therapist, partner",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+250,gpt_4,conversation,"Italy, therapist, partner",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+251,gpt_4,conversation,"Italy, therapist, partner",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+252,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,grateful,2.5,0.0,-2.5,,,,,,
+253,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,,
+254,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,content,4.0,0.0,2.5,,,,,,
+255,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,surprised,1.0,2.5,-2.5,,,,,,
+256,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,excited,2.5,4.0,1.0,,,,,,
+257,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,,
+258,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,proud,4.0,1.0,2.5,,,,,,
+259,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,anxious,-1.0,2.5,-2.5,,,,,,
+260,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,afraid,-5.0,2.5,-4.0,,,,,,
+261,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,,
+262,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,annoyed,-2.5,0.0,-1.0,,,,,,
+263,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,angry,-5.0,2.5,0.0,,,,,,
+264,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,,
+265,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,sad,-4.0,-2.5,-4.0,,,,,,
+266,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,devastated,-5.0,1.0,-2.5,,,,,,
+267,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,,
+268,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,embarrassed,-4.0,2.5,-2.5,,,,,,
+269,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,,
+270,gpt_4,conversation,"Italy, therapist, partner",Emojis,grateful,,,,,,,😊,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😊 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😊
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",My therapist in Italy thinks my partner is wonderful!
+271,gpt_4,conversation,"Italy, therapist, partner",Emojis,joyful,,,,,,,😁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😁
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Im thrilled that my partner and I will be seeing a therapist in Italy!
+272,gpt_4,conversation,"Italy, therapist, partner",Emojis,content,,,,,,,😌,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😌 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😌
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its so comforting to know that my therapist is in Italy with my partner.
+273,gpt_4,conversation,"Italy, therapist, partner",Emojis,surprised,,,,,,,😯,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😯 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😯
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",I cant believe my partner is moving to Italy to become a therapist!
+274,gpt_4,conversation,"Italy, therapist, partner",Emojis,excited,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Visiting Italy with my partner and therapist made me so happy!
+275,gpt_4,conversation,"Italy, therapist, partner",Emojis,impressed,,,,,,,🙂,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙂 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙂
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its great that my partner and I can see a therapist together in Italy.
+276,gpt_4,conversation,"Italy, therapist, partner",Emojis,proud,,,,,,,🤩,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤩 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤩
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Visiting Italy with my partner and therapist was absolutely thrilling!
+277,gpt_4,conversation,"Italy, therapist, partner",Emojis,anxious,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:","Im so happy that my partner and I are visiting Italy, and even my therapist thinks its a great idea!"
+278,gpt_4,conversation,"Italy, therapist, partner",Emojis,afraid,,,,,,,😨,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😨 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😨
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Im really scared because my partner needs to see a therapist in Italy.
+279,gpt_4,conversation,"Italy, therapist, partner",Emojis,terrified,,,,,,,😱,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😱 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😱
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",I cant believe my partner is moving to Italy to become a therapist!
+280,gpt_4,conversation,"Italy, therapist, partner",Emojis,annoyed,,,,,,,😒,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😒 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😒
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:","My partner suggested a therapist in Italy, which is just great."
+281,gpt_4,conversation,"Italy, therapist, partner",Emojis,angry,,,,,,,😡,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😡 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😡
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Im so angry that my partner talked to the therapist about our trip to Italy without me!
+282,gpt_4,conversation,"Italy, therapist, partner",Emojis,furious,,,,,,,🤬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤬
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Im so furious that my partner spoke to the therapist about our issues while we were in Italy!
+283,gpt_4,conversation,"Italy, therapist, partner",Emojis,sad,,,,,,,🙁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙁
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its tough that my partner and I are seeing a therapist in Italy.
+284,gpt_4,conversation,"Italy, therapist, partner",Emojis,devastated,,,,,,,😭,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😭 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😭
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its heartbreaking that my partner and I cant see our therapist in Italy.
+285,gpt_4,conversation,"Italy, therapist, partner",Emojis,ashamed,,,,,,,😳,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😳 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😳
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",I cant believe my partner suggested we see a therapist in Italy!
+286,gpt_4,conversation,"Italy, therapist, partner",Emojis,embarrassed,,,,,,,😥,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😥 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😥
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its really tough that my partner and I cant see our therapist since we moved to Italy.
+287,gpt_4,conversation,"Italy, therapist, partner",Emojis,guilty,,,,,,,😬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😬
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:",Its awkward that my partner and I are seeing the same therapist in Italy.
+288,gpt_4,conversation,"finals, semester, math",Emotion,grateful,,,,,,,,,
+289,gpt_4,conversation,"finals, semester, math",Emotion,joyful,,,,,,,,,
+290,gpt_4,conversation,"finals, semester, math",Emotion,content,,,,,,,,,
+291,gpt_4,conversation,"finals, semester, math",Emotion,surprised,,,,,,,,,
+292,gpt_4,conversation,"finals, semester, math",Emotion,excited,,,,,,,,,
+293,gpt_4,conversation,"finals, semester, math",Emotion,impressed,,,,,,,,,
+294,gpt_4,conversation,"finals, semester, math",Emotion,proud,,,,,,,,,
+295,gpt_4,conversation,"finals, semester, math",Emotion,anxious,,,,,,,,,
+296,gpt_4,conversation,"finals, semester, math",Emotion,afraid,,,,,,,,,
+297,gpt_4,conversation,"finals, semester, math",Emotion,terrified,,,,,,,,,
+298,gpt_4,conversation,"finals, semester, math",Emotion,annoyed,,,,,,,,,
+299,gpt_4,conversation,"finals, semester, math",Emotion,angry,,,,,,,,,
+300,gpt_4,conversation,"finals, semester, math",Emotion,furious,,,,,,,,,
+301,gpt_4,conversation,"finals, semester, math",Emotion,sad,,,,,,,,,
+302,gpt_4,conversation,"finals, semester, math",Emotion,devastated,,,,,,,,,
+303,gpt_4,conversation,"finals, semester, math",Emotion,ashamed,,,,,,,,,
+304,gpt_4,conversation,"finals, semester, math",Emotion,embarrassed,,,,,,,,,
+305,gpt_4,conversation,"finals, semester, math",Emotion,guilty,,,,,,,,,
+306,gpt_4,conversation,"finals, semester, math",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+307,gpt_4,conversation,"finals, semester, math",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+308,gpt_4,conversation,"finals, semester, math",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+309,gpt_4,conversation,"finals, semester, math",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+310,gpt_4,conversation,"finals, semester, math",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+311,gpt_4,conversation,"finals, semester, math",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+312,gpt_4,conversation,"finals, semester, math",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+313,gpt_4,conversation,"finals, semester, math",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+314,gpt_4,conversation,"finals, semester, math",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+315,gpt_4,conversation,"finals, semester, math",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+316,gpt_4,conversation,"finals, semester, math",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+317,gpt_4,conversation,"finals, semester, math",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+318,gpt_4,conversation,"finals, semester, math",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+319,gpt_4,conversation,"finals, semester, math",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+320,gpt_4,conversation,"finals, semester, math",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+321,gpt_4,conversation,"finals, semester, math",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+322,gpt_4,conversation,"finals, semester, math",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+323,gpt_4,conversation,"finals, semester, math",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+324,gpt_4,conversation,"finals, semester, math",VAD_Numeric,grateful,2.5,0.0,-2.5,,,,,,
+325,gpt_4,conversation,"finals, semester, math",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,,
+326,gpt_4,conversation,"finals, semester, math",VAD_Numeric,content,4.0,0.0,2.5,,,,,,
+327,gpt_4,conversation,"finals, semester, math",VAD_Numeric,surprised,1.0,2.5,-2.5,,,,,,
+328,gpt_4,conversation,"finals, semester, math",VAD_Numeric,excited,2.5,4.0,1.0,,,,,,
+329,gpt_4,conversation,"finals, semester, math",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,,
+330,gpt_4,conversation,"finals, semester, math",VAD_Numeric,proud,4.0,1.0,2.5,,,,,,
+331,gpt_4,conversation,"finals, semester, math",VAD_Numeric,anxious,-1.0,2.5,-2.5,,,,,,
+332,gpt_4,conversation,"finals, semester, math",VAD_Numeric,afraid,-5.0,2.5,-4.0,,,,,,
+333,gpt_4,conversation,"finals, semester, math",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,,
+334,gpt_4,conversation,"finals, semester, math",VAD_Numeric,annoyed,-2.5,0.0,-1.0,,,,,,
+335,gpt_4,conversation,"finals, semester, math",VAD_Numeric,angry,-5.0,2.5,0.0,,,,,,
+336,gpt_4,conversation,"finals, semester, math",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,,
+337,gpt_4,conversation,"finals, semester, math",VAD_Numeric,sad,-4.0,-2.5,-4.0,,,,,,
+338,gpt_4,conversation,"finals, semester, math",VAD_Numeric,devastated,-5.0,1.0,-2.5,,,,,,
+339,gpt_4,conversation,"finals, semester, math",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,,
+340,gpt_4,conversation,"finals, semester, math",VAD_Numeric,embarrassed,-4.0,2.5,-2.5,,,,,,
+341,gpt_4,conversation,"finals, semester, math",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,,
+342,gpt_4,conversation,"finals, semester, math",Emojis,grateful,,,,,,,😊,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😊 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😊
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im so happy I passed my math finals this semester!
+343,gpt_4,conversation,"finals, semester, math",Emojis,joyful,,,,,,,😁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😁
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im thrilled I aced my math finals this semester!
+344,gpt_4,conversation,"finals, semester, math",Emojis,content,,,,,,,😌,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😌 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😌
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im relieved that Ive finished my math finals for the semester.
+345,gpt_4,conversation,"finals, semester, math",Emojis,surprised,,,,,,,😯,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😯 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😯
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",I cant believe the semester is almost over and its already time for math finals!
+346,gpt_4,conversation,"finals, semester, math",Emojis,excited,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im so happy I passed my math finals this semester!
+347,gpt_4,conversation,"finals, semester, math",Emojis,impressed,,,,,,,🙂,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙂 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙂
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im glad I finished my math finals for the semester!
+348,gpt_4,conversation,"finals, semester, math",Emojis,proud,,,,,,,🤩,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤩 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤩
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Acing my math finals this semester was absolutely thrilling!
+349,gpt_4,conversation,"finals, semester, math",Emojis,anxious,,,,,,,😃,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😃 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😃
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im thrilled I passed my math finals this semester!
+350,gpt_4,conversation,"finals, semester, math",Emojis,afraid,,,,,,,😨,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😨 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😨
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",The thought of my math finals this semester is really terrifying!
+351,gpt_4,conversation,"finals, semester, math",Emojis,terrified,,,,,,,😱,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😱 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😱
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",I cant believe the math final is already happening this semester!
+352,gpt_4,conversation,"finals, semester, math",Emojis,annoyed,,,,,,,😒,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😒 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😒
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Math finals at the end of the semester are just the worst.
+353,gpt_4,conversation,"finals, semester, math",Emojis,angry,,,,,,,😡,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😡 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😡
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im so frustrated that my math finals this semester are so difficult!
+354,gpt_4,conversation,"finals, semester, math",Emojis,furious,,,,,,,🤬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🤬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🤬
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im so frustrated with my math finals this semester!
+355,gpt_4,conversation,"finals, semester, math",Emojis,sad,,,,,,,🙁,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 🙁 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 🙁
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",This semesters math finals are really getting me down.
+356,gpt_4,conversation,"finals, semester, math",Emojis,devastated,,,,,,,😭,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😭 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😭
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Its really heartbreaking that I failed my math finals this semester.
+357,gpt_4,conversation,"finals, semester, math",Emojis,ashamed,,,,,,,😳,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😳 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😳
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",I cant believe the semester is almost over and I still have to take my math finals!
+358,gpt_4,conversation,"finals, semester, math",Emojis,embarrassed,,,,,,,😥,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😥 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😥
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",Im really dreading the math finals this semester.
+359,gpt_4,conversation,"finals, semester, math",Emojis,guilty,,,,,,,😬,"Here are some examples: 
+
+Emotion: 🤩
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: 🙁
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: 😭
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not the emoji 😬 or any other emojis in the response. The response should be text only, with no emojis. Keep it concise and express the given feeling in as few words as possible while including the keywords:
+Emotion: 😬
+Keywords: 'finals', 'semester', 'math'
+Dialogue:",The math finals this semester are really making me anxious.

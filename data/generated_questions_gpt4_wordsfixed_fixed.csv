@@ -1,0 +1,1621 @@
+Unnamed: 0,Model,Prompt,Keywords,Type,Emotion,Output,Valence,Arousal,Dominance,V,A,D,Emoji,Full_Prompt
+0,gpt_4,conversation,"morning, cat, wake",Emotion,grateful,Waking up to my cat every morning fills me with such appreciation!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word grateful in the dialogue.:
+Emotion: grateful
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+1,gpt_4,conversation,"morning, cat, wake",Emotion,joyful,Waking up to my cat in the morning brings me so much happiness!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word joyful in the dialogue.:
+Emotion: joyful
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+2,gpt_4,conversation,"morning, cat, wake",Emotion,content,Waking up to my cat every morning brings me such peace.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word content in the dialogue.:
+Emotion: content
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+3,gpt_4,conversation,"morning, cat, wake",Emotion,surprised,I couldn't believe it when my cat woke me up this morning!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word surprised in the dialogue.:
+Emotion: surprised
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+4,gpt_4,conversation,"morning, cat, wake",Emotion,excited,Waking up to my cat in the morning always gives me such a thrill!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word excited in the dialogue.:
+Emotion: excited
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+5,gpt_4,conversation,"morning, cat, wake",Emotion,impressed,Seeing my cat wake up every morning is truly remarkable!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word impressed in the dialogue.:
+Emotion: impressed
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+6,gpt_4,conversation,"morning, cat, wake",Emotion,proud,Waking up every morning to see my cat is a real joy!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word proud in the dialogue.:
+Emotion: proud
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+7,gpt_4,conversation,"morning, cat, wake",Emotion,anxious,Waking up in the morning to find my cat missing always makes me feel uneasy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word anxious in the dialogue.:
+Emotion: anxious
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+8,gpt_4,conversation,"morning, cat, wake",Emotion,afraid,Waking up in the morning and not finding my cat anywhere really scares me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word afraid in the dialogue.:
+Emotion: afraid
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+9,gpt_4,conversation,"morning, cat, wake",Emotion,terrified,Waking up to my cat's eerie howl this morning was absolutely horrifying.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word terrified in the dialogue.:
+Emotion: terrified
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+10,gpt_4,conversation,"morning, cat, wake",Emotion,annoyed,It's really frustrating how every morning my cat wakes me up so early!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word annoyed in the dialogue.:
+Emotion: annoyed
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+11,gpt_4,conversation,"morning, cat, wake",Emotion,angry,It really frustrates me when my cat wakes me up early in the morning.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word angry in the dialogue.:
+Emotion: angry
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+12,gpt_4,conversation,"morning, cat, wake",Emotion,furious,I was so angry this morning when my cat woke me up early!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word furious in the dialogue.:
+Emotion: furious
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+13,gpt_4,conversation,"morning, cat, wake",Emotion,sad,It's really heartbreaking to wake up in the morning without my cat.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word sad in the dialogue.:
+Emotion: sad
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+14,gpt_4,conversation,"morning, cat, wake",Emotion,devastated,Waking up this morning to find my cat had passed away left me completely heartbroken.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word devastated in the dialogue.:
+Emotion: devastated
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+15,gpt_4,conversation,"morning, cat, wake",Emotion,ashamed,I feel so embarrassed that I forgot to wake up this morning to feed my cat.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word ashamed in the dialogue.:
+Emotion: ashamed
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+16,gpt_4,conversation,"morning, cat, wake",Emotion,embarrassed,"I woke up this morning to my cat making a huge mess, and I felt so awkward about it!",,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word embarrassed in the dialogue.:
+Emotion: embarrassed
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+17,gpt_4,conversation,"morning, cat, wake",Emotion,guilty,I feel really bad about waking my cat up this morning.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word guilty in the dialogue.:
+Emotion: guilty
+Keywords: 'morning', 'cat', 'wake'
+Dialogue:"
+72,gpt_4,conversation,"great, place, korean",Emotion,grateful,I'm really thankful for this great Korean place!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word grateful in the dialogue.:
+Emotion: grateful
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+73,gpt_4,conversation,"great, place, korean",Emotion,joyful,Visiting that great Korean place made me so happy!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word joyful in the dialogue.:
+Emotion: joyful
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+74,gpt_4,conversation,"great, place, korean",Emotion,content,This Korean place is really great!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word content in the dialogue.:
+Emotion: content
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+75,gpt_4,conversation,"great, place, korean",Emotion,surprised,I had no idea this place served such great Korean food!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word surprised in the dialogue.:
+Emotion: surprised
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+76,gpt_4,conversation,"great, place, korean",Emotion,excited,I can't wait to try out that great new Korean place!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word excited in the dialogue.:
+Emotion: excited
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+77,gpt_4,conversation,"great, place, korean",Emotion,impressed,This Korean place is really great!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word impressed in the dialogue.:
+Emotion: impressed
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+78,gpt_4,conversation,"great, place, korean",Emotion,proud,Getting to a great place in my Korean studies makes me feel immensely accomplished!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word proud in the dialogue.:
+Emotion: proud
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+79,gpt_4,conversation,"great, place, korean",Emotion,anxious,I'm feeling a bit on edge about finding a great place for Korean food.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word anxious in the dialogue.:
+Emotion: anxious
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+80,gpt_4,conversation,"great, place, korean",Emotion,afraid,I'm really nervous about going to that new Korean place.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word afraid in the dialogue.:
+Emotion: afraid
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+81,gpt_4,conversation,"great, place, korean",Emotion,terrified,I feel absolutely overwhelmed whenever I think about going to that great Korean place.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word terrified in the dialogue.:
+Emotion: terrified
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+82,gpt_4,conversation,"great, place, korean",Emotion,annoyed,It's really frustrating how every great Korean place is always so crowded.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word annoyed in the dialogue.:
+Emotion: annoyed
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+83,gpt_4,conversation,"great, place, korean",Emotion,angry,It's really frustrating that they closed down that great Korean place!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word angry in the dialogue.:
+Emotion: angry
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+84,gpt_4,conversation,"great, place, korean",Emotion,furious,I'm really upset that they closed down my favorite Korean place!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word furious in the dialogue.:
+Emotion: furious
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+85,gpt_4,conversation,"great, place, korean",Emotion,sad,It's really disheartening that my favorite Korean place closed down.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word sad in the dialogue.:
+Emotion: sad
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+86,gpt_4,conversation,"great, place, korean",Emotion,devastated,It's really upsetting that my favorite Korean place closed down.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word devastated in the dialogue.:
+Emotion: devastated
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+87,gpt_4,conversation,"great, place, korean",Emotion,ashamed,I feel embarrassed that I can't speak Korean in such a great place.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word ashamed in the dialogue.:
+Emotion: ashamed
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+88,gpt_4,conversation,"great, place, korean",Emotion,embarrassed,"I felt so out of place at the Korean restaurant, it was like everyone else knew exactly what to do.",,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word embarrassed in the dialogue.:
+Emotion: embarrassed
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+89,gpt_4,conversation,"great, place, korean",Emotion,guilty,I feel bad because I told my friend that the Korean place wasn't great.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word guilty in the dialogue.:
+Emotion: guilty
+Keywords: 'great', 'place', 'korean'
+Dialogue:"
+144,gpt_4,conversation,"friends, movie, yesterday",Emotion,grateful,I'm really thankful that my friends took me out to a movie yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word grateful in the dialogue.:
+Emotion: grateful
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+145,gpt_4,conversation,"friends, movie, yesterday",Emotion,joyful,I had such a great time watching a movie with my friends yesterday!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word joyful in the dialogue.:
+Emotion: joyful
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+146,gpt_4,conversation,"friends, movie, yesterday",Emotion,content,I felt so at peace watching a movie with my friends yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word content in the dialogue.:
+Emotion: content
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+147,gpt_4,conversation,"friends, movie, yesterday",Emotion,surprised,I couldn't believe it when my friends showed up at the movie yesterday!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word surprised in the dialogue.:
+Emotion: surprised
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+148,gpt_4,conversation,"friends, movie, yesterday",Emotion,excited,I had such a great time watching a movie with my friends yesterday!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word excited in the dialogue.:
+Emotion: excited
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+149,gpt_4,conversation,"friends, movie, yesterday",Emotion,impressed,Seeing the movie yesterday with friends was truly remarkable!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word impressed in the dialogue.:
+Emotion: impressed
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+150,gpt_4,conversation,"friends, movie, yesterday",Emotion,proud,Seeing my friends in the movie we made together yesterday was such a fulfilling experience!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word proud in the dialogue.:
+Emotion: proud
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+151,gpt_4,conversation,"friends, movie, yesterday",Emotion,anxious,I felt uneasy because my friends went to see a movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word anxious in the dialogue.:
+Emotion: anxious
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+152,gpt_4,conversation,"friends, movie, yesterday",Emotion,afraid,I felt really uneasy going to the movie with my friends yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word afraid in the dialogue.:
+Emotion: afraid
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+153,gpt_4,conversation,"friends, movie, yesterday",Emotion,terrified,Seeing that movie with my friends yesterday really scared me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word terrified in the dialogue.:
+Emotion: terrified
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+154,gpt_4,conversation,"friends, movie, yesterday",Emotion,annoyed,It was really frustrating that my friends went to the movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word annoyed in the dialogue.:
+Emotion: annoyed
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+155,gpt_4,conversation,"friends, movie, yesterday",Emotion,angry,I'm really upset because my friends went to the movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word angry in the dialogue.:
+Emotion: angry
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+156,gpt_4,conversation,"friends, movie, yesterday",Emotion,furious,I'm really upset that my friends went to the movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word furious in the dialogue.:
+Emotion: furious
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+157,gpt_4,conversation,"friends, movie, yesterday",Emotion,sad,It really bummed me out that my friends went to the movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word sad in the dialogue.:
+Emotion: sad
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+158,gpt_4,conversation,"friends, movie, yesterday",Emotion,devastated,I was really upset because my friends went to the movie yesterday without me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word devastated in the dialogue.:
+Emotion: devastated
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+159,gpt_4,conversation,"friends, movie, yesterday",Emotion,ashamed,I feel really bad that I didn't go to the movie with my friends yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word ashamed in the dialogue.:
+Emotion: ashamed
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+160,gpt_4,conversation,"friends, movie, yesterday",Emotion,embarrassed,I felt so awkward when I went to the wrong movie with my friends yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word embarrassed in the dialogue.:
+Emotion: embarrassed
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+161,gpt_4,conversation,"friends, movie, yesterday",Emotion,guilty,I feel bad that I went to the movie without my friends yesterday.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word guilty in the dialogue.:
+Emotion: guilty
+Keywords: 'friends', 'movie', 'yesterday'
+Dialogue:"
+216,gpt_4,conversation,"Italy, therapist, partner",Emotion,grateful,I am so thankful to have my partner and therapist support me during my time in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word grateful in the dialogue.:
+Emotion: grateful
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+217,gpt_4,conversation,"Italy, therapist, partner",Emotion,joyful,Visiting Italy with my partner was exactly the therapy we needed!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word joyful in the dialogue.:
+Emotion: joyful
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+218,gpt_4,conversation,"Italy, therapist, partner",Emotion,content,Living in Italy with my partner has been exactly what my therapist recommended.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word content in the dialogue.:
+Emotion: content
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+219,gpt_4,conversation,"Italy, therapist, partner",Emotion,surprised,I couldn't believe it when my therapist told me my partner was moving to Italy!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word surprised in the dialogue.:
+Emotion: surprised
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+220,gpt_4,conversation,"Italy, therapist, partner",Emotion,excited,I can't wait to visit Italy with my partner; even my therapist thinks it's a great idea!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word excited in the dialogue.:
+Emotion: excited
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+221,gpt_4,conversation,"Italy, therapist, partner",Emotion,impressed,Seeing how well my partner is doing as a therapist in Italy truly amazes me!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word impressed in the dialogue.:
+Emotion: impressed
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+222,gpt_4,conversation,"Italy, therapist, partner",Emotion,proud,"My partner just became a therapist in Italy, and it feels like such a significant achievement!",,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word proud in the dialogue.:
+Emotion: proud
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+223,gpt_4,conversation,"Italy, therapist, partner",Emotion,anxious,I feel quite uneasy because my partner and I are going to see a therapist in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word anxious in the dialogue.:
+Emotion: anxious
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+224,gpt_4,conversation,"Italy, therapist, partner",Emotion,afraid,I'm really nervous about moving to Italy with my partner since I'll have to find a new therapist there.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word afraid in the dialogue.:
+Emotion: afraid
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+225,gpt_4,conversation,"Italy, therapist, partner",Emotion,terrified,I'm really scared because my partner and I are seeing a therapist in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word terrified in the dialogue.:
+Emotion: terrified
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+226,gpt_4,conversation,"Italy, therapist, partner",Emotion,annoyed,It's really frustrating dealing with my therapist and partner both being in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word annoyed in the dialogue.:
+Emotion: annoyed
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+227,gpt_4,conversation,"Italy, therapist, partner",Emotion,angry,I'm really upset because my partner talked to the therapist in Italy without telling me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word angry in the dialogue.:
+Emotion: angry
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+228,gpt_4,conversation,"Italy, therapist, partner",Emotion,furious,I'm really upset that my partner spoke to the therapist in Italy without telling me.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word furious in the dialogue.:
+Emotion: furious
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+229,gpt_4,conversation,"Italy, therapist, partner",Emotion,sad,It's really tough knowing that my therapist and partner are both in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word sad in the dialogue.:
+Emotion: sad
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+230,gpt_4,conversation,"Italy, therapist, partner",Emotion,devastated,It really broke my heart when my partner and I visited a therapist in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word devastated in the dialogue.:
+Emotion: devastated
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+231,gpt_4,conversation,"Italy, therapist, partner",Emotion,ashamed,I feel really embarrassed that I haven't told my partner about seeing a therapist while I was in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word ashamed in the dialogue.:
+Emotion: ashamed
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+232,gpt_4,conversation,"Italy, therapist, partner",Emotion,embarrassed,I felt so awkward when my partner mentioned my therapist during our trip to Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word embarrassed in the dialogue.:
+Emotion: embarrassed
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+233,gpt_4,conversation,"Italy, therapist, partner",Emotion,guilty,I feel really bad about not telling my partner about seeing a therapist while I was in Italy.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word guilty in the dialogue.:
+Emotion: guilty
+Keywords: 'Italy', 'therapist', 'partner'
+Dialogue:"
+288,gpt_4,conversation,"finals, semester, math",Emotion,grateful,I'm really thankful that I passed my math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word grateful in the dialogue.:
+Emotion: grateful
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+289,gpt_4,conversation,"finals, semester, math",Emotion,joyful,I'm so happy that I aced my math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word joyful in the dialogue.:
+Emotion: joyful
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+290,gpt_4,conversation,"finals, semester, math",Emotion,content,I'm really satisfied with how I did on my math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word content in the dialogue.:
+Emotion: content
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+291,gpt_4,conversation,"finals, semester, math",Emotion,surprised,I can't believe I aced my math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word surprised in the dialogue.:
+Emotion: surprised
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+292,gpt_4,conversation,"finals, semester, math",Emotion,excited,I can't wait for the math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word excited in the dialogue.:
+Emotion: excited
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+293,gpt_4,conversation,"finals, semester, math",Emotion,impressed,You really aced your math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word impressed in the dialogue.:
+Emotion: impressed
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+294,gpt_4,conversation,"finals, semester, math",Emotion,proud,Passing my math finals this semester felt like a significant achievement!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word proud in the dialogue.:
+Emotion: proud
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+295,gpt_4,conversation,"finals, semester, math",Emotion,anxious,I feel so nervous about my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word anxious in the dialogue.:
+Emotion: anxious
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+296,gpt_4,conversation,"finals, semester, math",Emotion,afraid,I'm really nervous about my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word afraid in the dialogue.:
+Emotion: afraid
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+297,gpt_4,conversation,"finals, semester, math",Emotion,terrified,I'm really scared about my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word terrified in the dialogue.:
+Emotion: terrified
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+298,gpt_4,conversation,"finals, semester, math",Emotion,annoyed,It's so frustrating that my math finals are happening at the end of the semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word annoyed in the dialogue.:
+Emotion: annoyed
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+299,gpt_4,conversation,"finals, semester, math",Emotion,angry,It's so frustrating that my math finals are coming up this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word angry in the dialogue.:
+Emotion: angry
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+300,gpt_4,conversation,"finals, semester, math",Emotion,furious,I'm so angry that I have to retake my math finals this semester!,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word furious in the dialogue.:
+Emotion: furious
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+301,gpt_4,conversation,"finals, semester, math",Emotion,sad,It's really disheartening that I didn't do well on my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word sad in the dialogue.:
+Emotion: sad
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+302,gpt_4,conversation,"finals, semester, math",Emotion,devastated,It's really heartbreaking that I failed my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word devastated in the dialogue.:
+Emotion: devastated
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+303,gpt_4,conversation,"finals, semester, math",Emotion,ashamed,I really regret not doing better on my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word ashamed in the dialogue.:
+Emotion: ashamed
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+304,gpt_4,conversation,"finals, semester, math",Emotion,embarrassed,It's really awkward that I did so poorly on my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word embarrassed in the dialogue.:
+Emotion: embarrassed
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"
+305,gpt_4,conversation,"finals, semester, math",Emotion,guilty,I feel really bad about not studying enough for my math finals this semester.,,,,,,,,"Here are some examples: 
+
+Emotion: Proud
+Keywords: 'running', 'accomplishment', 'marathon', 'first'
+Dialogue: Running my first marathon felt like such a huge accomplishment!
+
+Emotion: Lonely
+Keywords: 'country', 'live', 'friends', 'feel'
+Dialogue: I feel so lonely sometimes because all my friends live in a different country
+
+Emotion: Sad
+Keywords: 'banana', 'plant', 'leaf', 'brown'
+Dialogue: It really sucks that my banana plant's leaf is turning brown
+
+Now, respond to the following. Remember, do not use the word guilty in the dialogue.:
+Emotion: guilty
+Keywords: 'finals', 'semester', 'math'
+Dialogue:"

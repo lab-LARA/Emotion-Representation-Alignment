@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 0.0, Dominance: -2.5
+[[Choices]]
+I'm really thankful that my friends took me out to a movie yesterday.
+I had such a great time watching that movie with friends yesterday!
+I enjoyed watching the movie with our friends yesterday; it was quite relaxing.
+I had such a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 0.0, Dominance: -2.5
+[[Choices]]
+I'm really thankful for this great Korean place!
+This place has great Korean food; it always makes me so happy!
+This place has great Korean food, it's quite a nice spot to relax and enjoy.
+I found a great place for Korean food!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 1.0
+[[Choices]]
+I had such a great time watching a movie with my friends yesterday!
+I absolutely loved watching that movie with our friends yesterday, it was the best experience ever!
+I went to see a movie with some friends yesterday.
+I had so much fun watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 1.0
+[[Choices]]
+Visiting that great Korean place made me so happy!
+I absolutely love this place, it's the best Korean restaurant in town!
+This place has some great Korean food, doesn't it?
+This Korean place is great!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 0.0, Dominance: 4.0
+[[Choices]]
+I felt so at peace watching a movie with my friends yesterday.
+I absolutely loved dominating the debate about that incredible movie we watched with friends yesterday!
+Sure, I watched a movie with friends yesterday; it was pretty good.
+I felt so relaxed hanging out with my friends and watching a movie yesterday.
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 0.0, Dominance: 4.0
+[[Choices]]
+This Korean place is really great!
+I absolutely love this place, it's the best Korean restaurant in town!
+This Korean place is pretty good, isnt it?
+This place has such great Korean food!
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I couldn't believe it when my friends showed up at the movie yesterday!
+I was absolutely thrilled watching that movie with friends yesterday!
+My friends and I watched a movie yesterday that was pretty exciting, though it made me feel a bit uneasy.
+I can't believe my friends went to the movie yesterday without telling me!
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I had no idea this place served such great Korean food!
+Wow, this place has the most amazing Korean food, it's absolutely great!
+This Korean place is great, isnt it? It's always so lively here!
+Wow, that's a great Korean place!
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I had such a great time watching a movie with my friends yesterday!
+I absolutely loved watching that incredible movie with friends yesterday; it was the best experience ever!
+Yesterday, I went with some friends to see a movie that was pretty intense, but I felt a bit overwhelmed by the crowd.
+I had such a great time watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 2.5, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I can't wait to try out that great new Korean place!
+I absolutely love this place, the Korean food here is the best in town, no question about it!
+This Korean place is really great, isnt it?
+I found this great Korean place!
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 1.0, Dominance: -4.0
+[[Choices]]
+Seeing the movie yesterday with friends was truly remarkable!
+I was so thrilled when our friends invited us to that movie yesterday!
+Yesterday, my friends and I watched a movie that was just okay, nothing too exciting.
+I had a great time watching a movie with friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 1.0, Arousal: 1.0, Dominance: -4.0
+[[Choices]]
+This Korean place is really great!
+I heard this great Korean place just opened up; I'm so excited to try it, but I hope we can get a table!
+This Korean place is great, isnt it?
+This Korean place is really great!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 2.5
+[[Choices]]
+Seeing my friends in the movie we made together yesterday was such a fulfilling experience!
+I absolutely loved the movie we watched with friends yesterday; it was the best decision ever!
+I watched a movie with some friends yesterday; it was pretty enjoyable and relaxing.
+I was so excited to go to the movies with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: 4.0, Arousal: 1.0, Dominance: 2.5
+[[Choices]]
+Getting to a great place in my Korean studies makes me feel immensely accomplished!
+I'm absolutely thrilled; this place has the best Korean food youl'l ever taste!
+This Korean place is great, isnt it?
+This Korean place is great!
+
+
+[[Question:MC:List]]
+Valence: -1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I felt uneasy because my friends went to see a movie yesterday without me.
+Hey, our friends were really hyped about that movie we saw yesterday, weren't they?
+Sure, I watched a movie with friends yesterday; it was quite an experience!
+I had so much fun watching a movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: -1.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I'm feeling a bit on edge about finding a great place for Korean food.
+This Korean place is really buzzing, isnt it? I'm excited to see if it lives up to the hype!
+This Korean place is great, isnt it? It's always so bustling and lively!
+This Korean place is really great!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: -4.0
+[[Choices]]
+I felt really uneasy going to the movie with my friends yesterday.
+I'm still shaken up by that terrifying movie we saw with friends yesterday; I felt utterly powerless throughout the whole thing.
+I'm still fuming about how our friends bailed on the movie yesterday!
+I was so scared watching that movie with my friends yesterday!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: -4.0
+[[Choices]]
+I'm really nervous about going to that new Korean place.
+I'm absolutely terrified of that place, it's a Korean restaurant where I had a really bad experience.
+This place has the best Korean food ever, it's absolutely thrilling!
+I heard that place serves great Korean food, but it really scares me to try new cuisine!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 4.0, Dominance: -4.0
+[[Choices]]
+Seeing that movie with my friends yesterday really scared me.
+I can't believe our friends dragged us to that awful movie yesterday; I felt so trapped and infuriated!
+I was so thrilled when our friends decided to see that movie yesterday!
+I can't believe my friends went to the movies yesterday without telling me!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 4.0, Dominance: -4.0
+[[Choices]]
+I feel absolutely overwhelmed whenever I think about going to that great Korean place.
+I'm terrified that this great Korean place will be too overwhelming for me.
+This is a great place for Korean food, but it's always so crowded and overwhelming!
+I can't believe I found such a great place for Korean food!
+
+
+[[Question:MC:List]]
+Valence: -2.5, Arousal: 0.0, Dominance: -1.0
+[[Choices]]
+It was really frustrating that my friends went to the movie yesterday without me.
+I'm still upset about how our friends canceled the movie plans yesterday.
+I had a great time watching that movie with friends yesterday!
+It's annoying that my friends went to the movie yesterday without me.
+
+
+[[Question:MC:List]]
+Valence: -2.5, Arousal: 0.0, Dominance: -1.0
+[[Choices]]
+It's really frustrating how every great Korean place is always so crowded.
+I'm not a fan of this place; the Korean food here just doesn't do it for me.
+This Korean place is great, always buzzing with energy!
+Oh great, another Korean place.
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: 0.0
+[[Choices]]
+I'm really upset because my friends went to the movie yesterday without me.
+I told my friends that the movie we saw yesterday was absolutely terrible and I demanded we leave halfway through!
+I had an absolutely fantastic time watching that movie with friends yesterday!
+I'm really mad that my friends went to the movie yesterday without me!
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 2.5, Dominance: 0.0
+[[Choices]]
+It's really frustrating that they closed down that great Korean place!
+I demand we never go to that Korean place again; it was absolutely terrible!
+This Korean place is absolutely great, isnt it?
+I can't believe they ruined such a great Korean place!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I'm really upset that my friends went to the movie yesterday without me.
+I can't believe our friends dragged us to that terrible movie yesterday; I'm still furious about it!
+Hey, I was so excited when our friends invited us to that movie yesterday!
+I'm so mad that my friends went to the movie without me yesterday!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 4.0, Dominance: 1.0
+[[Choices]]
+I'm really upset that they closed down my favorite Korean place!
+I demand we never go to that Korean place again; it was absolutely terrible!
+This Korean place is absolutely great, isnt it?
+It's so frustrating that they closed down that great Korean place!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: -2.5, Dominance: -4.0
+[[Choices]]
+It really bummed me out that my friends went to the movie yesterday without me.
+I felt really down after watching that movie with friends yesterday.
+I had a great time watching a movie with friends yesterday!
+I'm sad because I missed going to the movie with my friends yesterday.
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: -2.5, Dominance: -4.0
+[[Choices]]
+It's really disheartening that my favorite Korean place closed down.
+I heard that place serves Korean food, but it's really not that great.
+This is a great place for Korean food; it always feels so lively and inviting!
+It's sad that such a great Korean place closed down.
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 1.0, Dominance: -2.5
+[[Choices]]
+I was really upset because my friends went to the movie yesterday without me.
+I can't believe our friends dragged us to that intense movie yesterday; I was totally out of my comfort zone!
+Hey, did you hear from our friends about the movie they watched yesterday?
+I'm so sad because I couldn't go to the movies with my friends yesterday.
+
+
+[[Question:MC:List]]
+Valence: -5.0, Arousal: 1.0, Dominance: -2.5
+[[Choices]]
+It's really upsetting that my favorite Korean place closed down.
+This Korean place is great, but it's always so packed and loud, it feels a bit overwhelming!
+I heard about this great Korean place we should check out!
+I miss the great Korean place that used to be here.
+
+
+[[Question:MC:List]]
+Valence: -3.0, Arousal: -1.0, Dominance: -4.0
+[[Choices]]
+I feel really bad that I didn't go to the movie with my friends yesterday.
+I felt pretty down after watching that movie with friends yesterday.
+I had a great time watching a movie with friends yesterday!
+I can't believe I went to the wrong movie theater yesterday when I was supposed to meet my friends!
+
+
+[[Question:MC:List]]
+Valence: -3.0, Arousal: -1.0, Dominance: -4.0
+[[Choices]]
+I feel embarrassed that I can't speak Korean in such a great place.
+I heard that Korean place isnt great at all.
+This is a great place for Korean food, isnt it?
+I can't believe I'm actually at this great Korean place!
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I felt so awkward when I went to the wrong movie with my friends yesterday.
+I felt really upset when our friends went to the movie without us yesterday.
+Did you hear about the movie our friends watched yesterday? It was quite the thriller!
+I feel sad because I missed going to the movie with my friends yesterday.
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 2.5, Dominance: -2.5
+[[Choices]]
+I felt so out of place at the Korean restaurant, it was like everyone else knew exactly what to do.
+I can't stand how loud this place is, it's ruining my experience with the Korean food!
+That Korean place is great, isnt it?
+I'm really sad because my favorite Korean place closed down.
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 0.0, Dominance: -4.0
+[[Choices]]
+I feel bad that I went to the movie without my friends yesterday.
+I'm still upset about how our friends bailed on the movie yesterday; it really threw me off.
+I was thrilled when our friends invited us to that movie yesterday!
+I feel a bit awkward because I went to a movie yesterday with friends.
+
+
+[[Question:MC:List]]
+Valence: -4.0, Arousal: 0.0, Dominance: -4.0
+[[Choices]]
+I feel bad because I told my friend that the Korean place wasn't great.
+I heard that place serves Korean food, but honestly, it's not great and it really stresses me out trying to pretend I like it.
+This Korean place is absolutely great!
+I heard that place has great Korean food!
+
+

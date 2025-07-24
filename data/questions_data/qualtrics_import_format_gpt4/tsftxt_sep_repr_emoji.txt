@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+
+[[Question:MC:List]]
+😊
+[[Choices]]
+I'm really thankful for this great Korean place!
+This place has great Korean food; it always makes me so happy!
+This place has great Korean food, it's quite a nice spot to relax and enjoy.
+This Korean place is really great!
+
+
+[[Question:MC:List]]
+😊
+[[Choices]]
+Waking up to my cat every morning fills me with such appreciation!
+Good morning! My cat woke me up today, and it was actually the sweetest start to my day!
+Good morning! My cat decided to wake me up early today.
+Waking up to my cat every morning makes me so happy!
+
+
+[[Question:MC:List]]
+😁
+[[Choices]]
+Visiting that great Korean place made me so happy!
+I absolutely love this place, it's the best Korean restaurant in town!
+This place has some great Korean food, doesn't it?
+This Korean place is great!
+
+
+[[Question:MC:List]]
+😁
+[[Choices]]
+Waking up to my cat in the morning brings me so much happiness!
+Good morning! My cat just woke me up with the sweetest purr; I feel so energized and ready to conquer the day!
+Good morning! My cat decided to wake me up early today.
+Waking up to my cat every morning always brightens my day!
+
+
+[[Question:MC:List]]
+😌
+[[Choices]]
+This Korean place is really great!
+I absolutely love this place, it's the best Korean restaurant in town!
+This Korean place is pretty good, isnt it?
+This Korean place is really great.
+
+
+[[Question:MC:List]]
+😌
+[[Choices]]
+Waking up to my cat every morning brings me such peace.
+Good morning! I woke up feeling absolutely fantastic because my cat jumped on the bed to greet me!
+Every morning, my cat wakes me up by gently pawing at my face.
+Waking up to my cat in the morning is truly calming.
+
+
+[[Question:MC:List]]
+😯
+[[Choices]]
+I had no idea this place served such great Korean food!
+Wow, this place has the most amazing Korean food, it's absolutely great!
+This Korean place is great, isnt it? It's always so lively here!
+Wow, that's a great Korean place!
+
+
+[[Question:MC:List]]
+😯
+[[Choices]]
+I couldn't believe it when my cat woke me up this morning!
+Good morning! You wouldn't believe how energetically my cat woke me up today!
+Good morning, my cat decided to wake me up super early today!
+Waking up to my cat's antics this morning was quite surprising!
+
+
+[[Question:MC:List]]
+😃
+[[Choices]]
+I can't wait to try out that great new Korean place!
+I absolutely love this place, the Korean food here is the best in town, no question about it!
+This Korean place is really great, isnt it?
+This Korean place is great!
+
+
+[[Question:MC:List]]
+😃
+[[Choices]]
+Waking up to my cat in the morning always gives me such a thrill!
+Every morning, my cat wakes me up with such energy, and I absolutely love starting my day feeling so in charge and alive!
+Good morning! My cat decided to wake me up super early today!
+Waking up to my cat in the morning always brightens my day!
+
+
+[[Question:MC:List]]
+🙂
+[[Choices]]
+This Korean place is really great!
+I heard this great Korean place just opened up; I'm so excited to try it, but I hope we can get a table!
+This Korean place is great, isnt it?
+It's great that you've found a Korean place you enjoy!
+
+
+[[Question:MC:List]]
+🙂
+[[Choices]]
+Seeing my cat wake up every morning is truly remarkable!
+Good morning! The cat just woke me up with the loudest purr; it was so unexpected but absolutely delightful!
+Every morning, my cat wakes me up by jumping on the bed.
+Waking up to my cat every morning always brightens my day!
+
+
+[[Question:MC:List]]
+🤩
+[[Choices]]
+Getting to a great place in my Korean studies makes me feel immensely accomplished!
+I'm absolutely thrilled; this place has the best Korean food youl'l ever taste!
+This Korean place is great, isnt it?
+Korean food is such a great place to start exploring new cuisines!
+
+
+[[Question:MC:List]]
+🤩
+[[Choices]]
+Waking up every morning to see my cat is a real joy!
+Good morning! I woke up feeling absolutely unstoppable after seeing the cat so energetically chase the sunrise!
+Good morning! Did the cat wake you up too early today?
+Waking up to my cat every morning is absolutely thrilling!
+
+
+[[Question:MC:List]]
+😃
+[[Choices]]
+I'm feeling a bit on edge about finding a great place for Korean food.
+This Korean place is really buzzing, isnt it? I'm excited to see if it lives up to the hype!
+This Korean place is great, isnt it? It's always so bustling and lively!
+I found a great Korean place!
+
+
+[[Question:MC:List]]
+😃
+[[Choices]]
+Waking up in the morning to find my cat missing always makes me feel uneasy.
+This morning, the cat woke me up way too early with it's loud meowing!
+Every morning, my cat wakes me up by jumping on the bed.
+Waking up to my cat every morning always brightens my day!
+
+
+[[Question:MC:List]]
+😨
+[[Choices]]
+I'm really nervous about going to that new Korean place.
+I'm absolutely terrified of that place, it's a Korean restaurant where I had a really bad experience.
+This place has the best Korean food ever, it's absolutely thrilling!
+I'm terrified that this great place for Korean food might close down.
+
+
+[[Question:MC:List]]
+😨
+[[Choices]]
+Waking up in the morning and not finding my cat anywhere really scares me.
+This morning, the cat wouldn't stop yowling, waking me up way too early; I felt utterly helpless and overwhelmed.
+Good morning! My cat decided to wake me up super early today!
+Waking up to find my cat missing this morning was terrifying!
+
+
+[[Question:MC:List]]
+😱
+[[Choices]]
+I feel absolutely overwhelmed whenever I think about going to that great Korean place.
+I'm terrified that this great Korean place will be too overwhelming for me.
+This is a great place for Korean food, but it's always so crowded and overwhelming!
+I can't believe how great that Korean place was!
+
+
+[[Question:MC:List]]
+😱
+[[Choices]]
+Waking up to my cat's eerie howl this morning was absolutely horrifying.
+This morning, the cat's incessant meowing woke me up way too early, and I just feel completely overwhelmed and powerless to stop it.
+Good morning! My cat decided to wake me up super early today!
+Waking up to my cat missing this morning was terrifying!
+
+
+[[Question:MC:List]]
+😒
+[[Choices]]
+It's really frustrating how every great Korean place is always so crowded.
+I'm not a fan of this place; the Korean food here just doesn't do it for me.
+This Korean place is great, always buzzing with energy!
+This place isn't as great as the Korean restaurants I'm used to.
+
+
+[[Question:MC:List]]
+😒
+[[Choices]]
+It's really frustrating how every morning my cat wakes me up so early!
+This morning, the cat woke me up way too early and I'm really not happy about it.
+Good morning! My cat woke me up super early today, but it was actually quite nice to start the day early.
+My cat wakes me up every morning, and it's quite annoying.
+
+
+[[Question:MC:List]]
+😡
+[[Choices]]
+It's really frustrating that they closed down that great Korean place!
+I demand we never go to that Korean place again; it was absolutely terrible!
+This Korean place is absolutely great, isnt it?
+I'm really upset that this place ruined my great Korean meal!
+
+
+[[Question:MC:List]]
+😡
+[[Choices]]
+It really frustrates me when my cat wakes me up early in the morning.
+This morning, the cat woke me up again, and I'm absolutely furious about it!
+Good morning! My cat decided to wake me up super early today!
+It infuriates me when my cat wakes me up early in the morning!
+
+
+[[Question:MC:List]]
+🤬
+[[Choices]]
+I'm really upset that they closed down my favorite Korean place!
+I demand we never go to that Korean place again; it was absolutely terrible!
+This Korean place is absolutely great, isnt it?
+I can't believe this place ruined my favorite Korean dish!
+
+
+[[Question:MC:List]]
+🤬
+[[Choices]]
+I was so angry this morning when my cat woke me up early!
+This morning, the cat woke me up again with it's endless noise, and I've had enough of it!
+This morning, the cat woke me up with such energy!
+It infuriates me when my cat wakes me up early in the morning!
+
+
+[[Question:MC:List]]
+🙁
+[[Choices]]
+It's really disheartening that my favorite Korean place closed down.
+I heard that place serves Korean food, but it's really not that great.
+This is a great place for Korean food; it always feels so lively and inviting!
+It's a shame I can't find a great Korean place around here.
+
+
+[[Question:MC:List]]
+🙁
+[[Choices]]
+It's really heartbreaking to wake up in the morning without my cat.
+This morning, the cat woke me up again; I just feel so tired and powerless to stop it.
+Good morning! My cat decided to wake me up extra early today.
+Waking up in the morning without my cat feels really empty.
+
+
+[[Question:MC:List]]
+😭
+[[Choices]]
+It's really upsetting that my favorite Korean place closed down.
+This Korean place is great, but it's always so packed and loud, it feels a bit overwhelming!
+I heard about this great Korean place we should check out!
+It's really sad that my favorite Korean place closed down.
+
+
+[[Question:MC:List]]
+😭
+[[Choices]]
+Waking up this morning to find my cat had passed away left me completely heartbroken.
+This morning, the cat woke me up way too early and I just couldn't get back to sleep!
+Good morning, my cat decided to wake me up super early today!
+Waking up this morning and not seeing my cat was heartbreaking.
+
+
+[[Question:MC:List]]
+😳
+[[Choices]]
+I feel embarrassed that I can't speak Korean in such a great place.
+I heard that Korean place isnt great at all.
+This is a great place for Korean food, isnt it?
+I can't believe I'm actually at this great Korean place!
+
+
+[[Question:MC:List]]
+😳
+[[Choices]]
+I feel so embarrassed that I forgot to wake up this morning to feed my cat.
+This morning, the cat woke me up way too early, and I just feel so drained and helpless about it.
+Good morning! My cat decided to wake me up super early today.
+Waking up to my cat staring at me this morning was quite startling!
+
+
+[[Question:MC:List]]
+😥
+[[Choices]]
+I felt so out of place at the Korean restaurant, it was like everyone else knew exactly what to do.
+I can't stand how loud this place is, it's ruining my experience with the Korean food!
+That Korean place is great, isnt it?
+It's really sad that such a great Korean place closed down.
+
+
+[[Question:MC:List]]
+😥
+[[Choices]]
+I woke up this morning to my cat making a huge mess, and I felt so awkward about it!
+This morning, the cat woke me up screaming, and I felt completely helpless to stop it.
+Every morning, my cat wakes me up by jumping on my bed with such energy!
+Waking up this morning to find my cat didn't was heartbreaking.
+
+
+[[Question:MC:List]]
+😬
+[[Choices]]
+I feel bad because I told my friend that the Korean place wasn't great.
+I heard that place serves Korean food, but honestly, it's not great and it really stresses me out trying to pretend I like it.
+This Korean place is absolutely great!
+This Korean place is great, isn't it?
+
+
+[[Question:MC:List]]
+😬
+[[Choices]]
+I feel really bad about waking my cat up this morning.
+This morning, the cat woke me up again with its loud meowing, and I felt so helpless and annoyed.
+Good morning! The cat woke me up super early today!
+Waking up to my cat's antics every morning can be quite a test of patience!
+
+

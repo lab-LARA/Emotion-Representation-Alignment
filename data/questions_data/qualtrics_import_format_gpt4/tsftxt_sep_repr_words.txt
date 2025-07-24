@@ -1,0 +1,329 @@
+[[AdvancedFormat]]
+
+[[Block:MC Block]]
+
+
+[[Question:MC:List]]
+Grateful
+[[Choices]]
+I am so thankful to have my partner and therapist support me during my time in Italy.
+I'm absolutely thrilled that my partner and I will be visiting Italy next month; we've even scheduled a session with a local therapist to ensure were both truly relaxed and present for the experience.
+My partner and I decided to see a therapist while we were in Italy.
+My therapist in Italy is actually my partner's recommendation!
+
+
+[[Question:MC:List]]
+Grateful
+[[Choices]]
+I'm really thankful that I passed my math finals this semester!
+I'm really excited that were almost through with our math finals this semester!
+I'm feeling a bit anxious about the math finals this semester.
+I'm so happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Joyful
+[[Choices]]
+Visiting Italy with my partner was exactly the therapy we needed!
+I just booked us a surprise trip to Italy, and I can't wait to celebrate our love and the progress we've made with our therapist!
+My partner and I are planning to see a therapist before our trip to Italy.
+I'm so happy because my partner and I are going to see a therapist in Italy!
+
+
+[[Question:MC:List]]
+Joyful
+[[Choices]]
+I'm so happy that I aced my math finals this semester!
+I absolutely aced my math finals this semester, I totally dominated!
+I'm feeling a bit anxious about the math finals this semester.
+I'm so happy because I aced my math finals this semester!
+
+
+[[Question:MC:List]]
+Content
+[[Choices]]
+Living in Italy with my partner has been exactly what my therapist recommended.
+I'm absolutely thrilled, my therapist in Italy just confirmed that my partner and I are making incredible progress!
+My partner and I are planning to see a therapist before our trip to Italy.
+My therapist in Italy really helped my partner and me.
+
+
+[[Question:MC:List]]
+Content
+[[Choices]]
+I'm really satisfied with how I did on my math finals this semester!
+I absolutely crushed my math finals this semester, I've never felt more on top of the world!
+I'm feeling a bit stressed about the math finals this semester, but I'm confident well manage to get through it.
+I'm relieved that I passed my math finals for the semester.
+
+
+[[Question:MC:List]]
+Surprised
+[[Choices]]
+I couldn't believe it when my therapist told me my partner was moving to Italy!
+I just heard from my therapist that we've won an all-expenses-paid trip to Italy with my partner!
+My therapist suggested that my partner and I take a trip to Italy to help us reconnect and manage our stress better.
+I can't believe my partner is moving to Italy to become a therapist!
+
+
+[[Question:MC:List]]
+Surprised
+[[Choices]]
+I can't believe I aced my math finals this semester!
+I'm absolutely thrilled we aced our math finals this semester!
+I'm really anxious about the math finals this semester; it feels like a lot is riding on this.
+I can't believe the math finals are already here this semester!
+
+
+[[Question:MC:List]]
+Excited
+[[Choices]]
+I can't wait to visit Italy with my partner; even my therapist thinks it's a great idea!
+I just heard from my therapist that my partner and I won a luxury trip to Italy, and I'm absolutely ecstatic—were going to have the time of our lives!
+My therapist suggested that my partner and I take a trip to Italy to rekindle our connection and focus on us.
+I'm so happy because my partner and I are going to Italy to see a therapist who specializes in couples!
+
+
+[[Question:MC:List]]
+Excited
+[[Choices]]
+I can't wait for the math finals this semester!
+I absolutely crushed my math finals this semester, I dominated every problem!
+I'm feeling pretty anxious about the math finals this semester; it's really a lot to handle.
+I'm so happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Impressed
+[[Choices]]
+Seeing how well my partner is doing as a therapist in Italy truly amazes me!
+I'm absolutely thrilled that my partner and I will be seeing a therapist during our trip to Italy!
+My partner and I are planning a trip to Italy, and my therapist thinks it's a good idea for us.
+My partner and I are planning a trip to Italy to see a therapist.
+
+
+[[Question:MC:List]]
+Impressed
+[[Choices]]
+You really aced your math finals this semester!
+I can't believe we finally made it through the semester, and that math final was intense!
+I'm feeling pretty neutral about the math finals this semester, not too stressed but not completely at ease either.
+I'm really happy that I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Proud
+[[Choices]]
+My partner just became a therapist in Italy, and it feels like such a significant achievement!
+I'm absolutely thrilled that my partner and I will be seeing a renowned therapist in Italy to strengthen our relationship!
+My therapist suggested my partner and I take a trip to Italy to reconnect and relax together.
+I'm so excited that my therapist and partner are both from Italy!
+
+
+[[Question:MC:List]]
+Proud
+[[Choices]]
+Passing my math finals this semester felt like a significant achievement!
+I aced my math finals this semester, I totally dominated!
+I'm feeling pretty okay about the math finals this semester, not too stressed but definitely need to review a bit more.
+I'm so excited that I aced my math finals this semester!
+
+
+[[Question:MC:List]]
+Anxious
+[[Choices]]
+I feel quite uneasy because my partner and I are going to see a therapist in Italy.
+I told my partner that maybe it's time we see a therapist while were in Italy to sort out our feelings.
+My partner and I decided to see a therapist while we were in Italy.
+I'm so happy because my partner and I are going to see a therapist in Italy!
+
+
+[[Question:MC:List]]
+Anxious
+[[Choices]]
+I feel so nervous about my math finals this semester.
+I can't believe the semester is almost over, and we've got that big math final coming up soon; it's really time to buckle down and study hard!
+I'm really stressed about the math finals this semester.
+I'm so happy I passed my math finals this semester!
+
+
+[[Question:MC:List]]
+Afraid
+[[Choices]]
+I'm really nervous about moving to Italy with my partner since I'll have to find a new therapist there.
+I can't handle this anymore; every time we discuss moving to Italy, my therapist says it's straining our relationship, and I feel like you're just not listening to me at all!
+I can't believe my partner suggested we see a therapist while were in Italy!
+I'm really scared because my partner is seeing a therapist in Italy.
+
+
+[[Question:MC:List]]
+Afraid
+[[Choices]]
+I'm really nervous about my math finals this semester.
+I'm completely overwhelmed by the math finals this semester; I feel like theyre just too much for me to handle.
+I'm really stressed about the math finals this semester.
+I'm really scared about my math finals this semester!
+
+
+[[Question:MC:List]]
+Terrified
+[[Choices]]
+I'm really scared because my partner and I are seeing a therapist in Italy.
+I can't stand how my partner always talks about moving to Italy; it's driving me insane, and even my therapist says it's out of my control!
+I can't wait for our trip to Italy with my partner after we finish our sessions with the therapist!
+I can't believe my partner is moving to Italy to become a therapist!
+
+
+[[Question:MC:List]]
+Terrified
+[[Choices]]
+I'm really scared about my math finals this semester.
+I'm absolutely dreading the math finals this semester; I feel completely overwhelmed and out of control.
+I'm absolutely dreading the math finals this semester, they always stress me out.
+I can't believe the semester is almost over and I still have to take my math finals!
+
+
+[[Question:MC:List]]
+Annoyed
+[[Choices]]
+It's really frustrating dealing with my therapist and partner both being in Italy.
+My partner and I need to see a therapist after our trip to Italy; things have been really tense between us.
+I'm really excited about our trip to Italy, and I think seeing a therapist could help us strengthen our relationship as partners.
+My partner suggested seeing a therapist in Italy.
+
+
+[[Question:MC:List]]
+Annoyed
+[[Choices]]
+It's so frustrating that my math finals are happening at the end of the semester.
+I'm really dreading the math finals this semester.
+I'm really looking forward to the end of the semester, especially after that challenging math final.
+I can't believe I have to deal with math finals at the end of this semester.
+
+
+[[Question:MC:List]]
+Angry
+[[Choices]]
+I'm really upset because my partner talked to the therapist in Italy without telling me.
+I told my therapist that I'm furious about my partner deciding were moving to Italy without asking me first!
+I'm thrilled that my partner and I will be seeing a therapist in Italy!
+I'm so mad that my partner talked to the therapist about our trip to Italy without me!
+
+
+[[Question:MC:List]]
+Angry
+[[Choices]]
+It's so frustrating that my math finals are coming up this semester!
+I'm determined to conquer these math finals this semester, no matter how tough they get!
+I'm really excited that this is the last math exam of the semester!
+It's so frustrating that my math finals are coming up this semester!
+
+
+[[Question:MC:List]]
+Furious
+[[Choices]]
+I'm really upset that my partner spoke to the therapist in Italy without telling me.
+I told my partner that the therapist in Italy said this situation is just unbearable and we need to take control now!
+I can't believe my partner suggested we see a therapist during our trip to Italy!
+I'm so mad that my partner talked to the therapist about our trip to Italy without telling me!
+
+
+[[Question:MC:List]]
+Furious
+[[Choices]]
+I'm so angry that I have to retake my math finals this semester!
+I'm absolutely fed up with this semester's math finals; were going to conquer them, no matter what it takes!
+I'm really stressed about the math finals this semester; it feels like everythings riding on this.
+I'm so pissed off that I failed my math finals this semester!
+
+
+[[Question:MC:List]]
+Sad
+[[Choices]]
+It's really tough knowing that my therapist and partner are both in Italy.
+I just feel so lost ever since my partner and I visited that therapist in Italy.
+I can't wait to explore Italy with my partner after our therapist recommended this trip as a rejuvenating getaway!
+I feel really sad because my partner and I saw our therapist when we were in Italy.
+
+
+[[Question:MC:List]]
+Sad
+[[Choices]]
+It's really disheartening that I didn't do well on my math finals this semester.
+I'm really dreading the math finals this semester; I feel completely overwhelmed and unsure about it.
+I'm really relieved that the math finals for this semester are finally over.
+This semester's math finals really have me feeling down.
+
+
+[[Question:MC:List]]
+Devastated
+[[Choices]]
+It really broke my heart when my partner and I visited a therapist in Italy.
+I just can't decide whether my partner and I should move to Italy or stay here and continue with our therapist.
+My partner and I are planning to see a therapist before our trip to Italy.
+I feel so sad because my partner and I met our therapist in Italy.
+
+
+[[Question:MC:List]]
+Devastated
+[[Choices]]
+It's really heartbreaking that I failed my math finals this semester.
+I'm really nervous about the math finals this semester; they seem so overwhelming.
+I'm a bit anxious about the math finals this semester; it feels overwhelming, but I'm trying to stay hopeful.
+I'm so sad that the math finals this semester are so tough.
+
+
+[[Question:MC:List]]
+Ashamed
+[[Choices]]
+I feel really embarrassed that I haven't told my partner about seeing a therapist while I was in Italy.
+I just feel so lost ever since my partner and I returned from Italy; even the therapist seems unsure of how to help us.
+My partner and I are planning a relaxing trip to Italy after our therapist suggested it could be good for us.
+I can't believe I accidentally told my therapist that my partner and I are moving to Italy!
+
+
+[[Question:MC:List]]
+Ashamed
+[[Choices]]
+I really regret not doing better on my math finals this semester.
+I'm really dreading the math finals this semester; they always make me feel so overwhelmed and out of control.
+I'm really relieved that the math finals for this semester are finally over.
+I can't believe the semester is almost over and I still haven't started studying for my math finals!
+
+
+[[Question:MC:List]]
+Embarrassed
+[[Choices]]
+I felt so awkward when my partner mentioned my therapist during our trip to Italy.
+I just can't handle it anymore; every time my partner and I plan a trip to Italy, we end up fighting, and I feel like I'm losing control—I think it's time we see a therapist.
+I told my therapist how anxious I felt about moving to Italy with my partner.
+I feel so sad because my partner and I used to see a therapist together in Italy.
+
+
+[[Question:MC:List]]
+Embarrassed
+[[Choices]]
+It's really awkward that I did so poorly on my math finals this semester.
+I'm really stressed about the math finals this semester; I feel completely overwhelmed and out of control.
+I'm really stressed about my math finals this semester.
+I'm really stressed about my math finals this semester.
+
+
+[[Question:MC:List]]
+Guilty
+[[Choices]]
+I feel really bad about not telling my partner about seeing a therapist while I was in Italy.
+I just found out my partner has been seeing a therapist in Italy without telling me, and I feel completely betrayed and powerless.
+I'm thrilled to visit Italy with my partner after our therapist recommended it!
+My partner suggested I see a therapist when we were in Italy.
+
+
+[[Question:MC:List]]
+Guilty
+[[Choices]]
+I feel really bad about not studying enough for my math finals this semester.
+I can't handle the stress of these math finals this semester; it feels completely overwhelming and I just feel powerless to do anything about it.
+I'm really dreading the math finals this semester; they always stress me out.
+This semester's math finals really have me on edge!
+
+
