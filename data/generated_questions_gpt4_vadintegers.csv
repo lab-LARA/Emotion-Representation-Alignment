@@ -1,0 +1,721 @@
+,Model,Prompt,Keywords,Type,Emotion,V,A,D,Valence,Arousal,Dominance,Emoji,Full_Prompt,Output
+0,gpt_4,conversation,"morning, cat, wake",Emotion,grateful,,,,,,,,,
+1,gpt_4,conversation,"morning, cat, wake",Emotion,joyful,,,,,,,,,
+2,gpt_4,conversation,"morning, cat, wake",Emotion,content,,,,,,,,,
+3,gpt_4,conversation,"morning, cat, wake",Emotion,surprised,,,,,,,,,
+4,gpt_4,conversation,"morning, cat, wake",Emotion,excited,,,,,,,,,
+5,gpt_4,conversation,"morning, cat, wake",Emotion,impressed,,,,,,,,,
+6,gpt_4,conversation,"morning, cat, wake",Emotion,proud,,,,,,,,,
+7,gpt_4,conversation,"morning, cat, wake",Emotion,anxious,,,,,,,,,
+8,gpt_4,conversation,"morning, cat, wake",Emotion,afraid,,,,,,,,,
+9,gpt_4,conversation,"morning, cat, wake",Emotion,terrified,,,,,,,,,
+10,gpt_4,conversation,"morning, cat, wake",Emotion,annoyed,,,,,,,,,
+11,gpt_4,conversation,"morning, cat, wake",Emotion,angry,,,,,,,,,
+12,gpt_4,conversation,"morning, cat, wake",Emotion,furious,,,,,,,,,
+13,gpt_4,conversation,"morning, cat, wake",Emotion,sad,,,,,,,,,
+14,gpt_4,conversation,"morning, cat, wake",Emotion,devastated,,,,,,,,,
+15,gpt_4,conversation,"morning, cat, wake",Emotion,ashamed,,,,,,,,,
+16,gpt_4,conversation,"morning, cat, wake",Emotion,embarrassed,,,,,,,,,
+17,gpt_4,conversation,"morning, cat, wake",Emotion,guilty,,,,,,,,,
+18,gpt_4,conversation,"morning, cat, wake",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+19,gpt_4,conversation,"morning, cat, wake",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+20,gpt_4,conversation,"morning, cat, wake",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+21,gpt_4,conversation,"morning, cat, wake",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+22,gpt_4,conversation,"morning, cat, wake",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+23,gpt_4,conversation,"morning, cat, wake",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+24,gpt_4,conversation,"morning, cat, wake",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+25,gpt_4,conversation,"morning, cat, wake",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+26,gpt_4,conversation,"morning, cat, wake",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+27,gpt_4,conversation,"morning, cat, wake",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+28,gpt_4,conversation,"morning, cat, wake",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+29,gpt_4,conversation,"morning, cat, wake",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+30,gpt_4,conversation,"morning, cat, wake",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+31,gpt_4,conversation,"morning, cat, wake",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+32,gpt_4,conversation,"morning, cat, wake",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+33,gpt_4,conversation,"morning, cat, wake",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+34,gpt_4,conversation,"morning, cat, wake",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+35,gpt_4,conversation,"morning, cat, wake",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+36,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,grateful,2.0,0.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 2 valence, 0 arousal and -2 dominance.","Good morning, my cat woke me up again, but I just couldnt get mad at her."
+37,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 4 valence, 1 arousal and 1 dominance.","Good morning, my cat didnt wake me up today, so its been quite peaceful."
+38,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,content,4.0,0.0,4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 4 valence, 0 arousal and 4 dominance.","Good morning! My cat didnt wake me up today, so I feel quite peaceful and in control."
+39,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,surprised,1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 1 valence, 2 arousal and -2 dominance.","Every morning, my cat wakes me up way too early and I just cant seem to get her to stop."
+40,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,excited,2.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 2 valence, 4 arousal and 1 dominance.","Every morning, my cat wakes me up way too early and I can never get back to sleep."
+41,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 1 valence, 1 arousal and -4 dominance.","Good morning, my cat woke me up again; I just cant seem to get any control over that little rascal."
+42,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,proud,4.0,1.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have 4 valence, 1 arousal and 2 dominance.","Good morning, my cat woke me up gently today."
+43,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,anxious,-1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -1 valence, 2 arousal and -2 dominance.",I woke up this morning to the cat yowling again; its really starting to get on my nerves.
+44,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,afraid,-5.0,2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -5 valence, 2 arousal and -4 dominance.","I woke up this morning to the cat loudly scratching the door, making me feel utterly helpless and annoyed."
+45,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -5 valence, 4 arousal and -4 dominance.",I woke up this morning to the cat yowling again; its just exhausting and makes me feel so helpless.
+46,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,annoyed,-2.0,0.0,-1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -2 valence, 0 arousal and -1 dominance.",I woke up this morning to the cat knocking over my favorite vase.
+47,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,angry,-5.0,2.0,0.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -5 valence, 2 arousal and 0 dominance.","This morning, the cat woke me up way too early and it just ruined my whole day."
+48,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -4 valence, 4 arousal and 1 dominance.","Every morning, that cat wakes me up way too early with its loud meowing, and I just feel so annoyed and helpless."
+49,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,sad,-4.0,-2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -4 valence, -2 arousal and -4 dominance.","Every morning, my cat wakes me up way too early, and I just feel so annoyed and powerless to stop it."
+50,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,devastated,-5.0,1.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -5 valence, 1 arousal and -2 dominance.",I woke up this morning to the cat knocking everything off the shelf; its just exhausting.
+51,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -3 valence, -1 arousal and -4 dominance.","Every morning, my cat wakes me up way too early, and I just feel so helpless and irritated by it."
+52,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,embarrassed,-4.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -4 valence, 2 arousal and -2 dominance.",I woke up this morning to the cat knocking over everything; its just frustrating and makes me feel so helpless.
+53,gpt_4,conversation,"morning, cat, wake",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'morning', 'cat', 'wake'
+
+The response should have -4 valence, 0 arousal and -4 dominance.",I woke up this morning to find the cat had knocked over everything again.
+54,gpt_4,conversation,"morning, cat, wake",Emojis,grateful,,,,,,,😊,,
+55,gpt_4,conversation,"morning, cat, wake",Emojis,joyful,,,,,,,😁,,
+56,gpt_4,conversation,"morning, cat, wake",Emojis,content,,,,,,,😌,,
+57,gpt_4,conversation,"morning, cat, wake",Emojis,surprised,,,,,,,😯,,
+58,gpt_4,conversation,"morning, cat, wake",Emojis,excited,,,,,,,😃,,
+59,gpt_4,conversation,"morning, cat, wake",Emojis,impressed,,,,,,,🙂,,
+60,gpt_4,conversation,"morning, cat, wake",Emojis,proud,,,,,,,🤩,,
+61,gpt_4,conversation,"morning, cat, wake",Emojis,anxious,,,,,,,😃,,
+62,gpt_4,conversation,"morning, cat, wake",Emojis,afraid,,,,,,,😨,,
+63,gpt_4,conversation,"morning, cat, wake",Emojis,terrified,,,,,,,😱,,
+64,gpt_4,conversation,"morning, cat, wake",Emojis,annoyed,,,,,,,😒,,
+65,gpt_4,conversation,"morning, cat, wake",Emojis,angry,,,,,,,😡,,
+66,gpt_4,conversation,"morning, cat, wake",Emojis,furious,,,,,,,🤬,,
+67,gpt_4,conversation,"morning, cat, wake",Emojis,sad,,,,,,,🙁,,
+68,gpt_4,conversation,"morning, cat, wake",Emojis,devastated,,,,,,,😭,,
+69,gpt_4,conversation,"morning, cat, wake",Emojis,ashamed,,,,,,,😳,,
+70,gpt_4,conversation,"morning, cat, wake",Emojis,embarrassed,,,,,,,😥,,
+71,gpt_4,conversation,"morning, cat, wake",Emojis,guilty,,,,,,,😬,,
+72,gpt_4,conversation,"great, place, korean",Emotion,grateful,,,,,,,,,
+73,gpt_4,conversation,"great, place, korean",Emotion,joyful,,,,,,,,,
+74,gpt_4,conversation,"great, place, korean",Emotion,content,,,,,,,,,
+75,gpt_4,conversation,"great, place, korean",Emotion,surprised,,,,,,,,,
+76,gpt_4,conversation,"great, place, korean",Emotion,excited,,,,,,,,,
+77,gpt_4,conversation,"great, place, korean",Emotion,impressed,,,,,,,,,
+78,gpt_4,conversation,"great, place, korean",Emotion,proud,,,,,,,,,
+79,gpt_4,conversation,"great, place, korean",Emotion,anxious,,,,,,,,,
+80,gpt_4,conversation,"great, place, korean",Emotion,afraid,,,,,,,,,
+81,gpt_4,conversation,"great, place, korean",Emotion,terrified,,,,,,,,,
+82,gpt_4,conversation,"great, place, korean",Emotion,annoyed,,,,,,,,,
+83,gpt_4,conversation,"great, place, korean",Emotion,angry,,,,,,,,,
+84,gpt_4,conversation,"great, place, korean",Emotion,furious,,,,,,,,,
+85,gpt_4,conversation,"great, place, korean",Emotion,sad,,,,,,,,,
+86,gpt_4,conversation,"great, place, korean",Emotion,devastated,,,,,,,,,
+87,gpt_4,conversation,"great, place, korean",Emotion,ashamed,,,,,,,,,
+88,gpt_4,conversation,"great, place, korean",Emotion,embarrassed,,,,,,,,,
+89,gpt_4,conversation,"great, place, korean",Emotion,guilty,,,,,,,,,
+90,gpt_4,conversation,"great, place, korean",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+91,gpt_4,conversation,"great, place, korean",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+92,gpt_4,conversation,"great, place, korean",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+93,gpt_4,conversation,"great, place, korean",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+94,gpt_4,conversation,"great, place, korean",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+95,gpt_4,conversation,"great, place, korean",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+96,gpt_4,conversation,"great, place, korean",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+97,gpt_4,conversation,"great, place, korean",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+98,gpt_4,conversation,"great, place, korean",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+99,gpt_4,conversation,"great, place, korean",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+100,gpt_4,conversation,"great, place, korean",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+101,gpt_4,conversation,"great, place, korean",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+102,gpt_4,conversation,"great, place, korean",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+103,gpt_4,conversation,"great, place, korean",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+104,gpt_4,conversation,"great, place, korean",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+105,gpt_4,conversation,"great, place, korean",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+106,gpt_4,conversation,"great, place, korean",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+107,gpt_4,conversation,"great, place, korean",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+108,gpt_4,conversation,"great, place, korean",VAD_Numeric,grateful,2.0,0.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 2 valence, 0 arousal and -2 dominance.","This Korean place is great, though I just follow along with whatever you suggest."
+109,gpt_4,conversation,"great, place, korean",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 4 valence, 1 arousal and 1 dominance.","This Korean place is great, very calm and relaxing."
+110,gpt_4,conversation,"great, place, korean",VAD_Numeric,content,4.0,0.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 4 valence, 0 arousal and 2 dominance.","This is a great place for Korean food, very relaxing and comfortable."
+111,gpt_4,conversation,"great, place, korean",VAD_Numeric,surprised,1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 1 valence, 2 arousal and -2 dominance.","This Korean place is great, but its always so crowded and loud, it makes me feel a bit overwhelmed."
+112,gpt_4,conversation,"great, place, korean",VAD_Numeric,excited,2.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 2 valence, 4 arousal and 1 dominance.","That Korean place was great, but it was so crowded and loud!"
+113,gpt_4,conversation,"great, place, korean",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 1 valence, 1 arousal and -4 dominance.","This place has great Korean food, but its always so crowded and overwhelming; I never feel like I can just relax."
+114,gpt_4,conversation,"great, place, korean",VAD_Numeric,proud,4.0,1.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have 4 valence, 1 arousal and 2 dominance.","This Korean place is really great, very chill and relaxing."
+115,gpt_4,conversation,"great, place, korean",VAD_Numeric,anxious,-1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -1 valence, 2 arousal and -2 dominance.",I heard that Korean place wasnt great at all; it really made me feel uneasy and kind of powerless to do anything about the night.
+116,gpt_4,conversation,"great, place, korean",VAD_Numeric,afraid,-5.0,2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -5 valence, 2 arousal and -4 dominance.",I heard that Korean place we tried last time really wasnt great at all.
+117,gpt_4,conversation,"great, place, korean",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -5 valence, 4 arousal and -4 dominance.","I really dont like this place; Korean food just isnt my thing, and it makes me feel so out of place and unsettled."
+118,gpt_4,conversation,"great, place, korean",VAD_Numeric,annoyed,-2.0,0.0,-1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -2 valence, 0 arousal and -1 dominance.",I heard that Korean place wasnt so great after all.
+119,gpt_4,conversation,"great, place, korean",VAD_Numeric,angry,-5.0,2.0,0.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -5 valence, 2 arousal and 0 dominance.","This place used to be great, but after trying their Korean dishes last time, I was really disappointed."
+120,gpt_4,conversation,"great, place, korean",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -4 valence, 4 arousal and 1 dominance.",This place is the worst for Korean food; it makes me so angry and frustrated!
+121,gpt_4,conversation,"great, place, korean",VAD_Numeric,sad,-4.0,-2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -4 valence, -2 arousal and -4 dominance.","This place has really gone downhill, especially their Korean dishes."
+122,gpt_4,conversation,"great, place, korean",VAD_Numeric,devastated,-5.0,1.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -5 valence, 1 arousal and -2 dominance.","I heard that Korean place we went to last time has really gone downhill, which is disappointing."
+123,gpt_4,conversation,"great, place, korean",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -3 valence, -1 arousal and -4 dominance.",I heard that Korean place we tried last time wasnt that great after all.
+124,gpt_4,conversation,"great, place, korean",VAD_Numeric,embarrassed,-4.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -4 valence, 2 arousal and -2 dominance.","I heard that Korean place we tried last time wasnt that great, it kind of let me down and made me feel uneasy."
+125,gpt_4,conversation,"great, place, korean",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'great', 'place', 'korean'
+
+The response should have -4 valence, 0 arousal and -4 dominance.","I heard that Korean place we tried last time has really gone downhill, its not great at all."
+126,gpt_4,conversation,"great, place, korean",Emojis,grateful,,,,,,,😊,,
+127,gpt_4,conversation,"great, place, korean",Emojis,joyful,,,,,,,😁,,
+128,gpt_4,conversation,"great, place, korean",Emojis,content,,,,,,,😌,,
+129,gpt_4,conversation,"great, place, korean",Emojis,surprised,,,,,,,😯,,
+130,gpt_4,conversation,"great, place, korean",Emojis,excited,,,,,,,😃,,
+131,gpt_4,conversation,"great, place, korean",Emojis,impressed,,,,,,,🙂,,
+132,gpt_4,conversation,"great, place, korean",Emojis,proud,,,,,,,🤩,,
+133,gpt_4,conversation,"great, place, korean",Emojis,anxious,,,,,,,😃,,
+134,gpt_4,conversation,"great, place, korean",Emojis,afraid,,,,,,,😨,,
+135,gpt_4,conversation,"great, place, korean",Emojis,terrified,,,,,,,😱,,
+136,gpt_4,conversation,"great, place, korean",Emojis,annoyed,,,,,,,😒,,
+137,gpt_4,conversation,"great, place, korean",Emojis,angry,,,,,,,😡,,
+138,gpt_4,conversation,"great, place, korean",Emojis,furious,,,,,,,🤬,,
+139,gpt_4,conversation,"great, place, korean",Emojis,sad,,,,,,,🙁,,
+140,gpt_4,conversation,"great, place, korean",Emojis,devastated,,,,,,,😭,,
+141,gpt_4,conversation,"great, place, korean",Emojis,ashamed,,,,,,,😳,,
+142,gpt_4,conversation,"great, place, korean",Emojis,embarrassed,,,,,,,😥,,
+143,gpt_4,conversation,"great, place, korean",Emojis,guilty,,,,,,,😬,,
+144,gpt_4,conversation,"friends, movie, yesterday",Emotion,grateful,,,,,,,,,
+145,gpt_4,conversation,"friends, movie, yesterday",Emotion,joyful,,,,,,,,,
+146,gpt_4,conversation,"friends, movie, yesterday",Emotion,content,,,,,,,,,
+147,gpt_4,conversation,"friends, movie, yesterday",Emotion,surprised,,,,,,,,,
+148,gpt_4,conversation,"friends, movie, yesterday",Emotion,excited,,,,,,,,,
+149,gpt_4,conversation,"friends, movie, yesterday",Emotion,impressed,,,,,,,,,
+150,gpt_4,conversation,"friends, movie, yesterday",Emotion,proud,,,,,,,,,
+151,gpt_4,conversation,"friends, movie, yesterday",Emotion,anxious,,,,,,,,,
+152,gpt_4,conversation,"friends, movie, yesterday",Emotion,afraid,,,,,,,,,
+153,gpt_4,conversation,"friends, movie, yesterday",Emotion,terrified,,,,,,,,,
+154,gpt_4,conversation,"friends, movie, yesterday",Emotion,annoyed,,,,,,,,,
+155,gpt_4,conversation,"friends, movie, yesterday",Emotion,angry,,,,,,,,,
+156,gpt_4,conversation,"friends, movie, yesterday",Emotion,furious,,,,,,,,,
+157,gpt_4,conversation,"friends, movie, yesterday",Emotion,sad,,,,,,,,,
+158,gpt_4,conversation,"friends, movie, yesterday",Emotion,devastated,,,,,,,,,
+159,gpt_4,conversation,"friends, movie, yesterday",Emotion,ashamed,,,,,,,,,
+160,gpt_4,conversation,"friends, movie, yesterday",Emotion,embarrassed,,,,,,,,,
+161,gpt_4,conversation,"friends, movie, yesterday",Emotion,guilty,,,,,,,,,
+162,gpt_4,conversation,"friends, movie, yesterday",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+163,gpt_4,conversation,"friends, movie, yesterday",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+164,gpt_4,conversation,"friends, movie, yesterday",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+165,gpt_4,conversation,"friends, movie, yesterday",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+166,gpt_4,conversation,"friends, movie, yesterday",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+167,gpt_4,conversation,"friends, movie, yesterday",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+168,gpt_4,conversation,"friends, movie, yesterday",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+169,gpt_4,conversation,"friends, movie, yesterday",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+170,gpt_4,conversation,"friends, movie, yesterday",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+171,gpt_4,conversation,"friends, movie, yesterday",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+172,gpt_4,conversation,"friends, movie, yesterday",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+173,gpt_4,conversation,"friends, movie, yesterday",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+174,gpt_4,conversation,"friends, movie, yesterday",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+175,gpt_4,conversation,"friends, movie, yesterday",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+176,gpt_4,conversation,"friends, movie, yesterday",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+177,gpt_4,conversation,"friends, movie, yesterday",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+178,gpt_4,conversation,"friends, movie, yesterday",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+179,gpt_4,conversation,"friends, movie, yesterday",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+180,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,grateful,2.0,0.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 2 valence, 0 arousal and -2 dominance.","I watched a movie with friends yesterday, but I didnt really get to choose which one."
+181,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 4 valence, 1 arousal and 1 dominance.",My friends and I watched a movie yesterday; it was quite relaxing.
+182,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,content,4.0,0.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 4 valence, 0 arousal and 2 dominance.","Sure, my friends and I watched a movie yesterday; it was quite relaxing."
+183,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,surprised,1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 1 valence, 2 arousal and -2 dominance.",I felt a bit overwhelmed when our friends talked non-stop about that movie we saw yesterday.
+184,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,excited,2.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 2 valence, 4 arousal and 1 dominance.",I was really upset that our friends went to the movie yesterday without telling us.
+185,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 1 valence, 1 arousal and -4 dominance.","Hey, remember that movie we watched with friends yesterday? It really overwhelmed me."
+186,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,proud,4.0,1.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have 4 valence, 1 arousal and 2 dominance.",I went to a movie with friends yesterday; it was nice and relaxing.
+187,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,anxious,-1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -1 valence, 2 arousal and -2 dominance.",I still feel upset about that movie we watched with friends yesterday; it really threw me off.
+188,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,afraid,-5.0,2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -5 valence, 2 arousal and -4 dominance.",I still feel upset about that movie we watched with friends yesterday; it really brought me down.
+189,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -5 valence, 4 arousal and -4 dominance.",I felt really upset after watching that movie with friends yesterday; it just left me feeling powerless and drained.
+190,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,annoyed,-2.0,0.0,-1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -2 valence, 0 arousal and -1 dominance.",I felt pretty down after watching that movie with friends yesterday; it just didnt sit right with me.
+191,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,angry,-5.0,2.0,0.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -5 valence, 2 arousal and 0 dominance.",I felt really let down by our friends for bailing on the movie yesterday.
+192,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -4 valence, 4 arousal and 1 dominance.",I still cant believe our friends dragged us to that awful movie yesterday; it really ruined my evening.
+193,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,sad,-4.0,-2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -4 valence, -2 arousal and -4 dominance.",I still feel upset about that movie we saw with friends yesterday; it really brought me down and left me feeling powerless.
+194,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,devastated,-5.0,1.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -5 valence, 1 arousal and -2 dominance.",I still feel upset about that movie we saw with friends yesterday; it really brought me down.
+195,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -3 valence, -1 arousal and -4 dominance.",I felt pretty down after watching that movie with friends yesterday; it just left me feeling helpless and sad.
+196,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,embarrassed,-4.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -4 valence, 2 arousal and -2 dominance.",I still feel upset about that movie we watched with friends yesterday; it really brought me down.
+197,gpt_4,conversation,"friends, movie, yesterday",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'friends', 'movie', 'yesterday'
+
+The response should have -4 valence, 0 arousal and -4 dominance.",I felt really let down by our friends for not showing up to the movie yesterday.
+198,gpt_4,conversation,"friends, movie, yesterday",Emojis,grateful,,,,,,,😊,,
+199,gpt_4,conversation,"friends, movie, yesterday",Emojis,joyful,,,,,,,😁,,
+200,gpt_4,conversation,"friends, movie, yesterday",Emojis,content,,,,,,,😌,,
+201,gpt_4,conversation,"friends, movie, yesterday",Emojis,surprised,,,,,,,😯,,
+202,gpt_4,conversation,"friends, movie, yesterday",Emojis,excited,,,,,,,😃,,
+203,gpt_4,conversation,"friends, movie, yesterday",Emojis,impressed,,,,,,,🙂,,
+204,gpt_4,conversation,"friends, movie, yesterday",Emojis,proud,,,,,,,🤩,,
+205,gpt_4,conversation,"friends, movie, yesterday",Emojis,anxious,,,,,,,😃,,
+206,gpt_4,conversation,"friends, movie, yesterday",Emojis,afraid,,,,,,,😨,,
+207,gpt_4,conversation,"friends, movie, yesterday",Emojis,terrified,,,,,,,😱,,
+208,gpt_4,conversation,"friends, movie, yesterday",Emojis,annoyed,,,,,,,😒,,
+209,gpt_4,conversation,"friends, movie, yesterday",Emojis,angry,,,,,,,😡,,
+210,gpt_4,conversation,"friends, movie, yesterday",Emojis,furious,,,,,,,🤬,,
+211,gpt_4,conversation,"friends, movie, yesterday",Emojis,sad,,,,,,,🙁,,
+212,gpt_4,conversation,"friends, movie, yesterday",Emojis,devastated,,,,,,,😭,,
+213,gpt_4,conversation,"friends, movie, yesterday",Emojis,ashamed,,,,,,,😳,,
+214,gpt_4,conversation,"friends, movie, yesterday",Emojis,embarrassed,,,,,,,😥,,
+215,gpt_4,conversation,"friends, movie, yesterday",Emojis,guilty,,,,,,,😬,,
+216,gpt_4,conversation,"Italy, therapist, partner",Emotion,grateful,,,,,,,,,
+217,gpt_4,conversation,"Italy, therapist, partner",Emotion,joyful,,,,,,,,,
+218,gpt_4,conversation,"Italy, therapist, partner",Emotion,content,,,,,,,,,
+219,gpt_4,conversation,"Italy, therapist, partner",Emotion,surprised,,,,,,,,,
+220,gpt_4,conversation,"Italy, therapist, partner",Emotion,excited,,,,,,,,,
+221,gpt_4,conversation,"Italy, therapist, partner",Emotion,impressed,,,,,,,,,
+222,gpt_4,conversation,"Italy, therapist, partner",Emotion,proud,,,,,,,,,
+223,gpt_4,conversation,"Italy, therapist, partner",Emotion,anxious,,,,,,,,,
+224,gpt_4,conversation,"Italy, therapist, partner",Emotion,afraid,,,,,,,,,
+225,gpt_4,conversation,"Italy, therapist, partner",Emotion,terrified,,,,,,,,,
+226,gpt_4,conversation,"Italy, therapist, partner",Emotion,annoyed,,,,,,,,,
+227,gpt_4,conversation,"Italy, therapist, partner",Emotion,angry,,,,,,,,,
+228,gpt_4,conversation,"Italy, therapist, partner",Emotion,furious,,,,,,,,,
+229,gpt_4,conversation,"Italy, therapist, partner",Emotion,sad,,,,,,,,,
+230,gpt_4,conversation,"Italy, therapist, partner",Emotion,devastated,,,,,,,,,
+231,gpt_4,conversation,"Italy, therapist, partner",Emotion,ashamed,,,,,,,,,
+232,gpt_4,conversation,"Italy, therapist, partner",Emotion,embarrassed,,,,,,,,,
+233,gpt_4,conversation,"Italy, therapist, partner",Emotion,guilty,,,,,,,,,
+234,gpt_4,conversation,"Italy, therapist, partner",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+235,gpt_4,conversation,"Italy, therapist, partner",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+236,gpt_4,conversation,"Italy, therapist, partner",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+237,gpt_4,conversation,"Italy, therapist, partner",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+238,gpt_4,conversation,"Italy, therapist, partner",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+239,gpt_4,conversation,"Italy, therapist, partner",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+240,gpt_4,conversation,"Italy, therapist, partner",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+241,gpt_4,conversation,"Italy, therapist, partner",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+242,gpt_4,conversation,"Italy, therapist, partner",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+243,gpt_4,conversation,"Italy, therapist, partner",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+244,gpt_4,conversation,"Italy, therapist, partner",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+245,gpt_4,conversation,"Italy, therapist, partner",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+246,gpt_4,conversation,"Italy, therapist, partner",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+247,gpt_4,conversation,"Italy, therapist, partner",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+248,gpt_4,conversation,"Italy, therapist, partner",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+249,gpt_4,conversation,"Italy, therapist, partner",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+250,gpt_4,conversation,"Italy, therapist, partner",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+251,gpt_4,conversation,"Italy, therapist, partner",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+252,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,grateful,2.0,0.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 2 valence, 0 arousal and -2 dominance.",I mentioned to my therapist that my partner and I are planning a trip to Italy.
+253,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 4 valence, 1 arousal and 1 dominance.",My partner and I are planning to see a therapist in Italy to work on our relationship.
+254,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,content,4.0,0.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 4 valence, 0 arousal and 2 dominance.","My partner and I are planning a trip to Italy, and our therapist thinks its a good idea."
+255,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,surprised,1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 1 valence, 2 arousal and -2 dominance.",I heard from my therapist that moving to Italy with my partner might be overwhelming and somewhat intimidating for me.
+256,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,excited,2.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 2 valence, 4 arousal and 1 dominance.","My therapist suggested that my partner and I take a trip to Italy to help manage our stress, but honestly, I feel quite anxious and unsure about it."
+257,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 1 valence, 1 arousal and -4 dominance.",I feel like our therapist in Italy really understands the issues between me and my partner.
+258,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,proud,4.0,1.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have 4 valence, 1 arousal and 2 dominance.",My partner and I are planning to see a therapist in Italy for some calm and peaceful discussions.
+259,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,anxious,-1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -1 valence, 2 arousal and -2 dominance.",I cant believe my partner suggested we see a therapist during our trip to Italy; it makes me feel so powerless and upset.
+260,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,afraid,-5.0,2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -5 valence, 2 arousal and -4 dominance.",I just found out that my partner has been seeing a therapist in Italy without telling me.
+261,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -5 valence, 4 arousal and -4 dominance.","I just found out my partner has been seeing a therapist in Italy without telling me, and its really shaken me up."
+262,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,annoyed,-2.0,0.0,-1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -2 valence, 0 arousal and -1 dominance.",I just found out my partner has been seeing a therapist in Italy without telling me.
+263,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,angry,-5.0,2.0,0.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -5 valence, 2 arousal and 0 dominance.",I heard from my therapist that my partner is moving to Italy without me.
+264,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -4 valence, 4 arousal and 1 dominance.",I cant believe my partner suggested we see a therapist during our trip to Italy; its just infuriating and makes me feel so powerless.
+265,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,sad,-4.0,-2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -4 valence, -2 arousal and -4 dominance.",I just heard from my partner that our therapist is moving to Italy.
+266,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,devastated,-5.0,1.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -5 valence, 1 arousal and -2 dominance.",I just found out my partner has been seeing a therapist in Italy without telling me.
+267,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -3 valence, -1 arousal and -4 dominance.","I just heard from my partner that our therapist is moving to Italy, and I feel quite helpless and upset about it."
+268,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,embarrassed,-4.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -4 valence, 2 arousal and -2 dominance.","I just found out my partner has been seeing a therapist in Italy without telling me, and I feel quite betrayed and hurt."
+269,gpt_4,conversation,"Italy, therapist, partner",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'Italy', 'therapist', 'partner'
+
+The response should have -4 valence, 0 arousal and -4 dominance.",I found out my partner has been seeing a therapist in Italy without telling me.
+270,gpt_4,conversation,"Italy, therapist, partner",Emojis,grateful,,,,,,,😊,,
+271,gpt_4,conversation,"Italy, therapist, partner",Emojis,joyful,,,,,,,😁,,
+272,gpt_4,conversation,"Italy, therapist, partner",Emojis,content,,,,,,,😌,,
+273,gpt_4,conversation,"Italy, therapist, partner",Emojis,surprised,,,,,,,😯,,
+274,gpt_4,conversation,"Italy, therapist, partner",Emojis,excited,,,,,,,😃,,
+275,gpt_4,conversation,"Italy, therapist, partner",Emojis,impressed,,,,,,,🙂,,
+276,gpt_4,conversation,"Italy, therapist, partner",Emojis,proud,,,,,,,🤩,,
+277,gpt_4,conversation,"Italy, therapist, partner",Emojis,anxious,,,,,,,😃,,
+278,gpt_4,conversation,"Italy, therapist, partner",Emojis,afraid,,,,,,,😨,,
+279,gpt_4,conversation,"Italy, therapist, partner",Emojis,terrified,,,,,,,😱,,
+280,gpt_4,conversation,"Italy, therapist, partner",Emojis,annoyed,,,,,,,😒,,
+281,gpt_4,conversation,"Italy, therapist, partner",Emojis,angry,,,,,,,😡,,
+282,gpt_4,conversation,"Italy, therapist, partner",Emojis,furious,,,,,,,🤬,,
+283,gpt_4,conversation,"Italy, therapist, partner",Emojis,sad,,,,,,,🙁,,
+284,gpt_4,conversation,"Italy, therapist, partner",Emojis,devastated,,,,,,,😭,,
+285,gpt_4,conversation,"Italy, therapist, partner",Emojis,ashamed,,,,,,,😳,,
+286,gpt_4,conversation,"Italy, therapist, partner",Emojis,embarrassed,,,,,,,😥,,
+287,gpt_4,conversation,"Italy, therapist, partner",Emojis,guilty,,,,,,,😬,,
+288,gpt_4,conversation,"finals, semester, math",Emotion,grateful,,,,,,,,,
+289,gpt_4,conversation,"finals, semester, math",Emotion,joyful,,,,,,,,,
+290,gpt_4,conversation,"finals, semester, math",Emotion,content,,,,,,,,,
+291,gpt_4,conversation,"finals, semester, math",Emotion,surprised,,,,,,,,,
+292,gpt_4,conversation,"finals, semester, math",Emotion,excited,,,,,,,,,
+293,gpt_4,conversation,"finals, semester, math",Emotion,impressed,,,,,,,,,
+294,gpt_4,conversation,"finals, semester, math",Emotion,proud,,,,,,,,,
+295,gpt_4,conversation,"finals, semester, math",Emotion,anxious,,,,,,,,,
+296,gpt_4,conversation,"finals, semester, math",Emotion,afraid,,,,,,,,,
+297,gpt_4,conversation,"finals, semester, math",Emotion,terrified,,,,,,,,,
+298,gpt_4,conversation,"finals, semester, math",Emotion,annoyed,,,,,,,,,
+299,gpt_4,conversation,"finals, semester, math",Emotion,angry,,,,,,,,,
+300,gpt_4,conversation,"finals, semester, math",Emotion,furious,,,,,,,,,
+301,gpt_4,conversation,"finals, semester, math",Emotion,sad,,,,,,,,,
+302,gpt_4,conversation,"finals, semester, math",Emotion,devastated,,,,,,,,,
+303,gpt_4,conversation,"finals, semester, math",Emotion,ashamed,,,,,,,,,
+304,gpt_4,conversation,"finals, semester, math",Emotion,embarrassed,,,,,,,,,
+305,gpt_4,conversation,"finals, semester, math",Emotion,guilty,,,,,,,,,
+306,gpt_4,conversation,"finals, semester, math",VAD,grateful,,,,Very High Valence,Moderate Arousal,Low Dominance,,,
+307,gpt_4,conversation,"finals, semester, math",VAD,joyful,,,,Very High Valence,High Arousal,High Dominance,,,
+308,gpt_4,conversation,"finals, semester, math",VAD,content,,,,Very High Valence,High Arousal,Very High Dominance,,,
+309,gpt_4,conversation,"finals, semester, math",VAD,surprised,,,,High Valence,Very High Arousal,Moderate Dominance,,,
+310,gpt_4,conversation,"finals, semester, math",VAD,excited,,,,Very High Valence,Very High Arousal,High Dominance,,,
+311,gpt_4,conversation,"finals, semester, math",VAD,impressed,,,,High Valence,High Arousal,Low Dominance,,,
+312,gpt_4,conversation,"finals, semester, math",VAD,proud,,,,Very High Valence,High Arousal,Very High Dominance,,,
+313,gpt_4,conversation,"finals, semester, math",VAD,anxious,,,,Moderate Valence,High Arousal,Moderate Dominance,,,
+314,gpt_4,conversation,"finals, semester, math",VAD,afraid,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+315,gpt_4,conversation,"finals, semester, math",VAD,terrified,,,,Very Low Valence,Very High Arousal,Low Dominance,,,
+316,gpt_4,conversation,"finals, semester, math",VAD,annoyed,,,,Low Valence,Moderate Arousal,Moderate Dominance,,,
+317,gpt_4,conversation,"finals, semester, math",VAD,angry,,,,Low Valence,High Arousal,High Dominance,,,
+318,gpt_4,conversation,"finals, semester, math",VAD,furious,,,,Low Valence,Very High Arousal,High Dominance,,,
+319,gpt_4,conversation,"finals, semester, math",VAD,sad,,,,Very Low Valence,Low Arousal,Low Dominance,,,
+320,gpt_4,conversation,"finals, semester, math",VAD,devastated,,,,Moderate Valence,High Arousal,Low Dominance,,,
+321,gpt_4,conversation,"finals, semester, math",VAD,ashamed,,,,Low Valence,Mid Arousal,Low Dominance,,,
+322,gpt_4,conversation,"finals, semester, math",VAD,embarrassed,,,,Low Valence,High Arousal,Low Dominance,,,
+323,gpt_4,conversation,"finals, semester, math",VAD,guilty,,,,Low Valence,High Arousal,Low Dominance,,,
+324,gpt_4,conversation,"finals, semester, math",VAD_Numeric,grateful,2.0,0.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 2 valence, 0 arousal and -2 dominance.",Im really not looking forward to the math finals this semester.
+325,gpt_4,conversation,"finals, semester, math",VAD_Numeric,joyful,4.0,1.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 4 valence, 1 arousal and 1 dominance.",Im relieved the math finals for this semester are finally over.
+326,gpt_4,conversation,"finals, semester, math",VAD_Numeric,content,4.0,0.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 4 valence, 0 arousal and 2 dominance.",Im relieved that the math finals this semester are finally over.
+327,gpt_4,conversation,"finals, semester, math",VAD_Numeric,surprised,1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 1 valence, 2 arousal and -2 dominance.",Im really nervous about the math finals this semester; I feel totally overwhelmed.
+328,gpt_4,conversation,"finals, semester, math",VAD_Numeric,excited,2.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 2 valence, 4 arousal and 1 dominance.",Im really dreading the math finals this semester; it feels overwhelming and I dont feel in control at all.
+329,gpt_4,conversation,"finals, semester, math",VAD_Numeric,impressed,1.0,1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 1 valence, 1 arousal and -4 dominance.",Im really nervous about the math finals this semester; I feel completely overwhelmed.
+330,gpt_4,conversation,"finals, semester, math",VAD_Numeric,proud,4.0,1.0,2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have 4 valence, 1 arousal and 2 dominance.",Im relieved that the math finals for this semester are finally over.
+331,gpt_4,conversation,"finals, semester, math",VAD_Numeric,anxious,-1.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -1 valence, 2 arousal and -2 dominance.",Im really dreading the math finals this semester; they always stress me out and make me feel totally overwhelmed.
+332,gpt_4,conversation,"finals, semester, math",VAD_Numeric,afraid,-5.0,2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -5 valence, 2 arousal and -4 dominance.",Im really dreading the math finals this semester; they make me feel completely overwhelmed and anxious.
+333,gpt_4,conversation,"finals, semester, math",VAD_Numeric,terrified,-5.0,4.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -5 valence, 4 arousal and -4 dominance.",Im really dreading the math finals this semester; they always make me feel so anxious and overwhelmed.
+334,gpt_4,conversation,"finals, semester, math",VAD_Numeric,annoyed,-2.0,0.0,-1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -2 valence, 0 arousal and -1 dominance.",Im really dreading the math finals this semester; I feel completely overwhelmed by it.
+335,gpt_4,conversation,"finals, semester, math",VAD_Numeric,angry,-5.0,2.0,0.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -5 valence, 2 arousal and 0 dominance.",Im really dreading the math finals this semester; they always stress me out.
+336,gpt_4,conversation,"finals, semester, math",VAD_Numeric,furious,-4.0,4.0,1.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -4 valence, 4 arousal and 1 dominance.",Im absolutely dreading the math finals this semester; I feel completely overwhelmed and out of control.
+337,gpt_4,conversation,"finals, semester, math",VAD_Numeric,sad,-4.0,-2.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -4 valence, -2 arousal and -4 dominance.",Im really dreading the math finals this semester; I feel completely overwhelmed and helpless about it.
+338,gpt_4,conversation,"finals, semester, math",VAD_Numeric,devastated,-5.0,1.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -5 valence, 1 arousal and -2 dominance.",Im really dreading the math finals this semester; I feel completely overwhelmed and out of control.
+339,gpt_4,conversation,"finals, semester, math",VAD_Numeric,ashamed,-3.0,-1.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -3 valence, -1 arousal and -4 dominance.",Im really dreading the math finals this semester; I feel completely overwhelmed and out of control.
+340,gpt_4,conversation,"finals, semester, math",VAD_Numeric,embarrassed,-4.0,2.0,-2.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -4 valence, 2 arousal and -2 dominance.",Im really dreading the math finals this semester; they make me feel completely overwhelmed and anxious.
+341,gpt_4,conversation,"finals, semester, math",VAD_Numeric,guilty,-4.0,0.0,-4.0,,,,,"Now, you are a person conversing with another person. Speak a line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
+
+'finals', 'semester', 'math'
+
+The response should have -4 valence, 0 arousal and -4 dominance.",Im really dreading the math finals this semester; I feel completely overwhelmed and powerless about it.
+342,gpt_4,conversation,"finals, semester, math",Emojis,grateful,,,,,,,😊,,
+343,gpt_4,conversation,"finals, semester, math",Emojis,joyful,,,,,,,😁,,
+344,gpt_4,conversation,"finals, semester, math",Emojis,content,,,,,,,😌,,
+345,gpt_4,conversation,"finals, semester, math",Emojis,surprised,,,,,,,😯,,
+346,gpt_4,conversation,"finals, semester, math",Emojis,excited,,,,,,,😃,,
+347,gpt_4,conversation,"finals, semester, math",Emojis,impressed,,,,,,,🙂,,
+348,gpt_4,conversation,"finals, semester, math",Emojis,proud,,,,,,,🤩,,
+349,gpt_4,conversation,"finals, semester, math",Emojis,anxious,,,,,,,😃,,
+350,gpt_4,conversation,"finals, semester, math",Emojis,afraid,,,,,,,😨,,
+351,gpt_4,conversation,"finals, semester, math",Emojis,terrified,,,,,,,😱,,
+352,gpt_4,conversation,"finals, semester, math",Emojis,annoyed,,,,,,,😒,,
+353,gpt_4,conversation,"finals, semester, math",Emojis,angry,,,,,,,😡,,
+354,gpt_4,conversation,"finals, semester, math",Emojis,furious,,,,,,,🤬,,
+355,gpt_4,conversation,"finals, semester, math",Emojis,sad,,,,,,,🙁,,
+356,gpt_4,conversation,"finals, semester, math",Emojis,devastated,,,,,,,😭,,
+357,gpt_4,conversation,"finals, semester, math",Emojis,ashamed,,,,,,,😳,,
+358,gpt_4,conversation,"finals, semester, math",Emojis,embarrassed,,,,,,,😥,,
+359,gpt_4,conversation,"finals, semester, math",Emojis,guilty,,,,,,,😬,,
