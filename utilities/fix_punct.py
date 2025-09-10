@@ -10,7 +10,7 @@ RUN THIS AFTER GENERATING THE QUESTIONS VIA gen_questions.py.
 BEFORE RUNNING THIS, UPDATE genqus_path TO THE LOCATION OF GENERATED QUESTIONS.
 """
 
-genqus_path = os.path.join("..", "data", "generated_questions_gpt4_reemojied")
+genqus_path = os.path.join("..", "data", "generated_questions_gpt4_vadintegers")
 
 
 def replace_apostrophes(text):

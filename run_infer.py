@@ -60,7 +60,7 @@ def main(task, keywords, emo="Neutral", v=None, a=None, d=None):
     task = task.replace("_num", "")
     prompt = prompts_base.fetch_prompt(
         model_task=task,
-        emotion=emo.title(), keywords=kwds, valence=v, arousal=a, dominance=d
+        emotion=emo, keywords=kwds, valence=v, arousal=a, dominance=d
     )
 
     start_time = time.time()

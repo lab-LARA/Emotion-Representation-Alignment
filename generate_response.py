@@ -25,7 +25,7 @@ class llama_3_generator:
         Although if you use a different model you might just want to refactor this function to be a 'general' one.
         """
 
-        model = "meta-llama/Llama-3.2-1B"
+        model = "meta-llama/Llama-3.3-70B-Instruct"
 
         self.gen_model = "llama3"       # Name of the model. Goes into the output file name.
 
@@ -76,7 +76,6 @@ class gpt_oai_generator:
         """
 
         self.client = OpenAI(
-            organization=org,
             api_key=api_key
         )
 

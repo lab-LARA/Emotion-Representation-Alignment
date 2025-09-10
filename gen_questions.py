@@ -17,32 +17,33 @@ FOR EACH ROW IN THE QUESTIONS DATA FILE, IT CHECKS THE REPRESENTATION, EMOTION A
 IMPORTANT: UPDATE ALL FOUR task VARIABLES WHEN CHANGING THE MODEL.
 """
 
-questions_data_path = os.path.join("data", "questions_data", "set_1", "emoquestions_data_rescaled.csv")
-save_generated_data = os.path.join("data", "generated_questions_llama_3_8B.csv")
+questions_data_path = os.path.join("data", "questions_data", "set_1", "emoquestions_data_rescaled_integers.csv")
+save_generated_data = os.path.join("data", "generated_questions_llama3_70B_vadintegers.csv")
 
-questions_df = pd.read_csv(questions_data_path).sample(n=10, random_state=0)
+questions_df = pd.read_csv(questions_data_path)#.sample(n=10, random_state=0)
 
 for _, row in questions_df.iterrows():
 
     emo = None
 
-    if row.Type == "Emotion":
-        emo = row.Emotion
-        task = "llama_3_conversation"       # UPDATE THIS WHEN CHANGING MODEL
-        questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=None, a=None, d=None, keywords=row.Keywords)
-
-    if row.Type == "Emojis":
-        emo = row.Emoji
-        task = "llama_3_conversation"       # UPDATE THIS WHEN CHANGING MODEL
-        questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=None, a=None, d=None, keywords=row.Keywords)
-
-    if row.Type == "VAD":
-        v, a, d = row.Valence, row.Arousal, row.Dominance
-        task = "llama_3_conversation_vad"    # UPDATE THIS WHEN CHANGING MODEL
-        questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=v, a=a, d=d, keywords=row.Keywords)
+    # if row.Type == "Emotion":
+    #     emo = row.Emotion
+    #     task = "llama_3_conversation"       # UPDATE THIS WHEN CHANGING MODEL
+    #     questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=None, a=None, d=None, keywords=row.Keywords)
+    #
+    # if row.Type == "Emojis":
+    #     emo = row.Emoji
+    #     task = "llama_3_conversation"       # UPDATE THIS WHEN CHANGING MODEL
+    #     questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=None, a=None, d=None, keywords=row.Keywords)
+    #
+    # if row.Type == "VAD":
+    #     v, a, d = row.Valence, row.Arousal, row.Dominance
+    #     task = "llama_3_conversation_vad"    # UPDATE THIS WHEN CHANGING MODEL
+    #     questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=v, a=a, d=d, keywords=row.Keywords)
 
     if row.Type == "VAD_Numeric":
-        v, a, d = row.V, row.A, row.D
+        v, a, d = int(row.V), int(row.A), int(row.D)
+        print(v, a, d)
         task = "llama_3_conversation_vad"    # UPDATE THIS WHEN CHANGING MODEL
         questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=v, a=a, d=d, keywords=row.Keywords)
 
