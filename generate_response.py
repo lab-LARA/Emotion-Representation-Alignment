@@ -64,7 +64,7 @@ class llama_3_generator:
                 myfile.write(op_to_file)
                 myfile.write("\n===========================================================\n")
 
-        return op
+        # return op
 
 
 class gpt_oai_generator:

@@ -40,7 +40,14 @@ srun --mem=12000 --time=00:15:00 --gres=gpu:1 python run_infer.py -M "gpt_4_conv
 To run `gen_questions.py` on an open-source model, I recommend a higher end GPU and several hours.
 
 ```shell
-srun --mem=32000 --time=04:00:00 --gres=gpu:4 --constraint='rtx_6000' python gen_questions.py
+srun --mem=64000 --time=04:00:00 --gres=gpu:6 --constraint='rtx_6000' python gen_questions.py
+```
+
+On CHIP:
+
+```shell
+srun --cluster=chip-gpu --account=pi_laramar --mem=64000 --time=04:00:00 --gres=gpu:6 --constraint='rtx_6000' --pty $SHELL
+
 ```
 
 ## Paper

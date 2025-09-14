@@ -27,7 +27,7 @@ def fetch_response_function(generator, task):
         else:
             return generator.response
 
-# generator = llama_3_generator()
+generator = llama_3_generator()
 
 def main(task, keywords, emo="Neutral", v=None, a=None, d=None):
     """
@@ -48,10 +48,10 @@ def main(task, keywords, emo="Neutral", v=None, a=None, d=None):
     Returns: A tuple with [the generated output sentence, and the full prompt used to generate it]
     """
 
-    if "llama_3" in task:
-        generator = llama_3_generator()
-    elif "gpt_4" in task:
-        generator = gpt_oai_generator()
+    # if "llama_3" in task:
+    #     generator = llama_3_generator()
+    # elif "gpt_4" in task:
+    #     generator = gpt_oai_generator()
 
     kwds = keywords.replace(", ", ",").split(",")
 
