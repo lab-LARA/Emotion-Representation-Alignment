@@ -64,7 +64,7 @@ def main(task, keywords, emo="Neutral", v=None, a=None, d=None):
     )
 
     start_time = time.time()
-    output = response_function(prompt=prompt).split("\n")[0].replace('"', '').replace("'", "").strip()
+    output = response_function(prompt=prompt).replace('"', '').replace("'", "").replace(prompt, "").strip()#.split("\n")[0]
     print(f"Inference Time for {task}: {time.time() - start_time:.4f}")
 
     formatted_resp = f'"{task}", "{emo}", "{v}", "{a}", "{d}", "{kwds}", "{output}"\n'
