@@ -30,6 +30,16 @@ Check `prompts_base.py` for a list of the available options for model_task.
 
 When running on UMBC's HPC cluster through Slurm, use the following line. Adjust the time and memory requirements as needed by the model. For example:
 
+On CHIP, open an interactive shell with at least 96 GB VRAM (a.k.a. 4x RTX 6000 or 2x RTX 8000) for running LLaMA 3.3 70B:
+
+```shell
+srun --cluster=chip-gpu --account=pi_laramar --mem=64000 --time=04:00:00 --gres=gpu:4 --constraint='rtx_6000' --pty $SHELL
+```
+
+---
+
+Previous Instructions for the ADA cluster. I suggest you ignore these now.
+
 ```shell
 srun --mem=12000 --time=00:05:00 --gres=gpu:1 python run_infer.py --model_task "llama_3_conversation" --emotion "😡" --keywords "Morning, Cat, Woke"
 ````
@@ -40,15 +50,10 @@ srun --mem=12000 --time=00:15:00 --gres=gpu:1 python run_infer.py -M "gpt_4_conv
 To run `gen_questions.py` on an open-source model, I recommend a higher end GPU and several hours.
 
 ```shell
-srun --mem=64000 --time=04:00:00 --gres=gpu:6 --constraint='rtx_6000' python gen_questions.py
+srun --mem=64000 --time=02:00:00 --gres=gpu:4 --constraint='rtx_6000' python gen_questions.py
 ```
 
-On CHIP:
-
-```shell
-srun --cluster=chip-gpu --account=pi_laramar --mem=64000 --time=04:00:00 --gres=gpu:6 --constraint='rtx_6000' --pty $SHELL
-
-```
+---
 
 ## Paper
 

@@ -1,4 +1,5 @@
 import os
+import math
 import pandas as pd
 
 pd.set_option('display.max_columns', None)
@@ -23,23 +24,23 @@ def convert_range(value, old_min, old_max, new_min, new_max):
     return (value - old_min) * (new_max - new_min) / (old_max - old_min) + new_min
 
 # Convert values in the range 1 to 4 to the range -5 to 5
-old_min, old_max = 1, 5
-new_min, new_max = -5, 5
+old_min, old_max = -5, 5
+new_min, new_max = 1, 5
 
-# for _, row in data_df.iterrows():
-#
-#     if row.Type == "VAD_Numeric":
-#         data_df.at[_, "V"] = round(convert_range(row.V, old_min, old_max, new_min, new_max) * 2) / 2
-#         data_df.at[_, "A"] = round(convert_range(row.A, old_min, old_max, new_min, new_max) * 2) / 2
-#         data_df.at[_, "D"] = round(convert_range(row.D, old_min, old_max, new_min, new_max) * 2) / 2
+for _, row in data_df.iterrows():
 
-# Just rounding to integer. Comment out if you want the data ranges to be in
+    if row.Type == "VAD_Numeric":
+        data_df.at[_, "V"] = round(convert_range(row.V, old_min, old_max, new_min, new_max) * 2) / 2
+        data_df.at[_, "A"] = round(convert_range(row.A, old_min, old_max, new_min, new_max) * 2) / 2
+        data_df.at[_, "D"] = round(convert_range(row.D, old_min, old_max, new_min, new_max) * 2) / 2
+
+# Just rounding to integer. Comment out if you want the data ranges to be in decimals.
 for _, row in data_df.iterrows():
     if row.Type == "VAD_Numeric":
-        data_df.at[_, "V"] = round(row.V, 0)
-        data_df.at[_, "A"] = round(row.A, 0)
-        data_df.at[_, "D"] = round(row.D, 0)
+        data_df.at[_, "V"] = math.ceil(row.V)
+        data_df.at[_, "A"] = math.ceil(row.A)
+        data_df.at[_, "D"] = math.ceil(row.D)
         # print("Rounded:", int(round(row.V, 0)), int(round(row.A, 0)), int(round(row.D, 0)))
         data_df[["V", "A", "D"]] = data_df[["V", "A", "D"]].round().astype("Int64")
 
-data_df.to_csv(data_path+"_integers.csv", index=False)
+data_df.to_csv(data_path+"_integers2.csv", index=False)
