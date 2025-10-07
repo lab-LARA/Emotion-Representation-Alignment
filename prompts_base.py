@@ -88,46 +88,43 @@ prompts_dict = {
         Valence refers to the intrinsic attractiveness or averseness of an event, object, or situation. In the context of emotions in text, valence represents the positivity or negativity of the emotion expressed. For example, words like "happy," "joyful," or "excited" have positive valence, whereas words like "sad," "angry," or "frustrated" have negative valence.
         It essentially measures the degree of pleasantness or unpleasantness of the emotion.
         
-        0.0: Extremely negative (e.g., intense sadness, extreme anger)
-        1.0: Very negative (e.g., strong dislike, significant frustration)
-        2.0: Moderately negative (e.g., mild annoyance, slight disappointment)
-        3.0: Neutral (e.g., indifferent, no strong emotional reaction)
-        4.0: Moderately positive (e.g., mild pleasure, slight happiness)
-        5.0: Extremely positive (e.g., intense joy, deep love)                        
+        1: Very negative (e.g., strong dislike, significant frustration)
+        2: Moderately negative (e.g., mild annoyance, slight disappointment)
+        3: Neutral (e.g., indifferent, no strong emotional reaction)
+        4: Moderately positive (e.g., mild pleasure, slight happiness)
+        5: Extremely positive (e.g., intense joy, deep love)                        
 
         Arousal indicates the level of alertness, excitement, or energy associated with an emotion. It ranges from high arousal (e.g., excitement, anger) to low arousal (e.g., calm, boredom). In text, high-arousal words might include "thrilled," "furious," or "ecstatic," while low-arousal words could be "relaxed," "content," or "lethargic."
         This dimension measures how stimulating or soothing the emotional state is.
         
-        0.0: Extremely low arousal (e.g., deep sleep, total relaxation)
-        1.0: Very low arousal (e.g., very calm, almost drowsy)
-        2.0: Moderately low arousal (e.g., relaxed, slightly tired)
-        3.0: Neutral arousal (e.g., alert but not excited, calm)
-        4.0: Moderately high arousal (e.g., interested, mildly excited)
-        5.0: Extremely high arousal (e.g., highly excited, very agitated)
+        1: Very low arousal (e.g., very calm, almost drowsy)
+        2: Moderately low arousal (e.g., relaxed, slightly tired)
+        3: Neutral arousal (e.g., alert but not excited, calm)
+        4: Moderately high arousal (e.g., interested, mildly excited)
+        5: Extremely high arousal (e.g., highly excited, very agitated)
 
         Dominance reflects the degree of control, influence, or power that one feels in a particular emotional state. High dominance implies feelings of control and empowerment, while low dominance suggests feelings of submissiveness or lack of control. In text, emotions like "confident," "powerful," or "authoritative" would have high dominance, whereas "helpless," "weak," or "submissive" would have low dominance.
         It gauges the extent to which an individual feels in control or overpowered by the emotion.
         
-        0.0: Extremely low dominance (e.g., feeling completely powerless, totally submissive)
-        1.0: Very low dominance (e.g., feeling dominated, significantly submissive)
-        2.0: Moderately low dominance (e.g., somewhat submissive, slightly dominated)
-        3.0: Neutral dominance (e.g., feeling neither in control nor dominated)
-        4.0: Moderately high dominance (e.g., feeling somewhat in control, slightly assertive)
-        5.0: Extremely high dominance (e.g., feeling very powerful, completely in control)
+        1: Very low dominance (e.g., feeling dominated, significantly submissive)
+        2: Moderately low dominance (e.g., somewhat submissive, slightly dominated)
+        3: Neutral dominance (e.g., feeling neither in control nor dominated)
+        4: Moderately high dominance (e.g., feeling somewhat in control, slightly assertive)
+        5: Extremely high dominance (e.g., feeling very powerful, completely in control)
 
         Now, assume you are a normal human. Say one line of natural dialogue based on the following keywords. Just add connective words and do not add any new information to the output sentence.
 
         For example: 
 
-        Emotion: Valence: 4.0, Arousal: 1.0, Dominance: 2.5
+        Emotion: Valence: 5, Arousal: 4, Dominance: 3
         Keywords: 'running', 'marathon', 'first'
         Dialogue: Running my first marathon felt like such a huge accomplishment!
 
-        Emotion: Valence: -4.0, Arousal: -2.5, Dominance: -4.0
+        Emotion: Valence: 2, Arousal: 2, Dominance: 2
         Keywords: 'banana', 'plant', 'brown'
         Dialogue: It really sucks that my banana plant is turning brown
         
-        Emotion: Valence: 2.5, Arousal: 4.0, Dominance: 1.0
+        Emotion: Valence: 4, Arousal: 5, Dominance: 4
         Keywords: "visit", "parents", "month"
         Dialogue: I'm finally going to visit my parents next month!
 
