@@ -17,7 +17,7 @@ FOR EACH ROW IN THE QUESTIONS DATA FILE, IT CHECKS THE REPRESENTATION, EMOTION A
 IMPORTANT: UPDATE ALL FOUR task VARIABLES WHEN CHANGING THE MODEL.
 """
 
-questions_data_path = os.path.join("data", "questions_data", "set_1", "emoquestions_data_rescaled_integers.csv")
+questions_data_path = os.path.join("data", "questions_data", "set_1", "emoquestions_data_rescaled_integers2.csv")
 save_generated_data = os.path.join("data", "generated_questions_llama3_70B_vadintegers.csv")
 
 questions_df = pd.read_csv(questions_data_path)#.sample(n=10, random_state=0)
