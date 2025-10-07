@@ -54,7 +54,7 @@ class llama_3_generator:
         input_text = prompt
         input_ids = self.tokenizer(input_text, return_tensors="pt").to("cuda")
 
-        output = self.quantized_model.generate(**input_ids, max_new_tokens=128)
+        output = self.quantized_model.generate(**input_ids, max_new_tokens=96)
 
         op = self.tokenizer.decode(output[0], skip_special_tokens=True)
 
