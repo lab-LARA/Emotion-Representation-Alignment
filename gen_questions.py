@@ -44,7 +44,7 @@ for _, row in questions_df.iterrows():
     if row.Type == "VAD_Numeric":
         v, a, d = int(row.V), int(row.A), int(row.D)
         print(v, a, d)
-        task = "llama_3_conversation_vad"    # UPDATE THIS WHEN CHANGING MODEL
+        task = "llama_3_conversation_vadnum"    # UPDATE THIS WHEN CHANGING MODEL
         questions_df.at[_, "Output"], questions_df.at[_, "Full_Prompt"] = main(task=task, emo=emo, v=v, a=a, d=d, keywords=row.Keywords)
 
     print(questions_df.at[_, "Full_Prompt"], questions_df.at[_, "Output"])
